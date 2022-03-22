@@ -9,6 +9,9 @@ file2Dataframe = pd.read_csv(file2, low_memory=False)
 
 print(file1Dataframe.dtypes)
 
+file1Dataframe = file1Dataframe.round(4)
+file2Dataframe = file2Dataframe.round(4)
+
 ddfile1 = file1Dataframe.drop_duplicates('Stop')
 
 print(ddfile1)
