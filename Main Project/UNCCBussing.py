@@ -19,6 +19,7 @@ CRI_Board = ImageTk.PhotoImage(Image.open(os.path.join(os.path.dirname(os.path.a
 CRI_Disembark = ImageTk.PhotoImage(Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Graphs", "CRI Deck Off.png")).resize((500, 375)))
 Lot6_Board = ImageTk.PhotoImage(Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Graphs", "Lot 6.png")).resize((500, 375)))
 StUnE_Board = ImageTk.PhotoImage(Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Graphs", "Student Union E.png")).resize((500, 375)))
+Bus = ImageTk.PhotoImage(Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Graphs", "Bus.png")).resize((500, 375)))
 
 
 # create marker through .set_address() with image, which is visible at zoom levels 14 to infinity
@@ -49,6 +50,10 @@ marker_3.hide_image(True)  # hide image
 marker_4 = map_widget.set_marker(35.3088,-80.7255, text="Lot 6", image=Lot6_Board,
                                  image_zoom_visibility=(0, float("inf")), command=click_airport_marker_event)
 marker_4.hide_image(True)  # hide image
+
+marker_5 = map_widget.set_marker(35.3079,-80.7348, text="Sample Bus", image=Bus,
+                                 image_zoom_visibility=(0, float("inf")), command=click_airport_marker_event)
+marker_5.hide_image(True)  # hide image
 
 #marker_1 = map_widget.set_marker(35.308044,	-80.732712, text="Student Union East", text_color="green",
 #                                 marker_color_circle="black", marker_color_outside="grey40", font=("Helvetica Bold", 16))
