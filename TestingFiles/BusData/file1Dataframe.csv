@@ -1,4 +1,4 @@
-,Date,Time,Bus,Count,On off,Latitude,Longitude,Route,Stop,CorrectStop
+,Date,Time,Bus,Count,OnOff,Latitude,Longitude,Route,Stop,CorrectStop
 0,11/13/2019,6:13:47,2403,1,off,35.306957245,-80.729568481,Gold,Fretwell S,Fretwell S
 1,11/13/2019,6:15:08,2401,1,off,35.308052063,-80.732757568,Green,Student Union E,Student Union E
 2,11/13/2019,6:15:14,2401,1,on,35.308052063,-80.732757568,Green,Student Union E,Student Union E
