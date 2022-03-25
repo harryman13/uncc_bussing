@@ -37,6 +37,6 @@ Optionally to test other code, you can investigate and run code in *Main Project
 
 ## Instructions
 
-Click and drag to move around the map, Scroll and out to zoom, Click on a pin to see the associated graph, and click the pin again to close the graph.
+Click and drag to move around the map, Scroll in and out to zoom, Click on a pin to see the associated graph, and click the pin again to close the graph.
 
 Thanks.
