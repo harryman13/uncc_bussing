@@ -34,3 +34,9 @@ Currently we are investigating how to have all these installed when installing o
 
 Running the code is as simple as running *Main Project/UNCCBussing.py*.
 Optionally to test other code, you can investigate and run code in *Main Project/Graphing.py*.
+
+##Instructions
+
+Click and drag to move around the map, Scroll and out to zoom, Click on a pin to see the associated graph, and click the pin again to close the graph.
+
+Thanks.
