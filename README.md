@@ -1,5 +1,7 @@
 # uncc_bussing
-##Setup
+
+## Setup
+
 Running this program is... a little complicated at the moment.
 Python is required, as it is written in python.
 Past that you will need the following libraries:
@@ -28,7 +30,7 @@ pip install matplotlib
 
 Currently we are investigating how to have all these installed when installing our app, but for now this is necessary.
 
-##Running the Code
+## Running the Code
 
 Running the code is as simple as running *Main Project/UNCCBussing.py*.
 Optionally to test other code, you can investigate and run code in *Main Project/Graphing.py*.
