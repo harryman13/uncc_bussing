@@ -78,4 +78,11 @@ def graphBus():
     plot.show()
 
 
-graphStop("CRI Deck", 0)
+def create_graphs():
+    file1 = 'Files/stops.csv'
+    df = pd.read_csv(file1, low_memory=False, index_col=0)
+    df['Stop'] = df['Stop'].astype(dtype='string')
+
+    for i in range(0,len(df)):
+        graphStop(df.iloc[i].Stop, 0)
+        graphStop(df.iloc[i].Stop, 1)

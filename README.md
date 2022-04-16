@@ -10,11 +10,13 @@ Past that you will need the following libraries:
 
 **pillow**
 
-Optional for other included code:
+**pandas**
+
+**customtkinter**
+
+Optional libraries for other files:
 
 **numpy**
-
-**pandas**
 
 **matplotlib**
 
@@ -26,6 +28,7 @@ pip install pillow
 pip install numpy
 pip install pandas
 pip install matplotlib
+pip install customtkinter
 ```
 
 Currently we are investigating how to have all these installed when installing our app, but for now this is necessary.
@@ -38,5 +41,7 @@ Optionally to test other code, you can investigate and run code in *Main Project
 ## Instructions
 
 Click and drag to move around the map, Scroll in and out to zoom, Click on a pin to see the associated graph, and click the pin again to close the graph.
+
+You can toggle between looking at the Embarking vs Disembarking data using the button on the left.
 
 Thanks.

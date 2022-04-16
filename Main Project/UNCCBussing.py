@@ -22,6 +22,7 @@ class App(customtkinter.CTk):
         self.createcommand('tk::mac::Quit', self.on_closing)
 
         self.marker_list = []
+        self.img_list = []
 
         def click_marker_event(marker):
             print("marker clicked:", marker.text)
@@ -57,21 +58,21 @@ class App(customtkinter.CTk):
         self.map_widget.set_position(35.307044, -80.734812)  # UNCC Campus
         self.map_widget.set_zoom(16)
 
-        self.entry = customtkinter.CTkEntry(master=self.frame_right,
-                                            placeholder_text="type address",
-                                            width=140,
-                                            height=30,
-                                            corner_radius=8)
-        self.entry.grid(row=1, column=0, sticky="we", padx=20, pady=20)
-        self.entry.entry.bind("<Return>", self.search_event)
+        #self.entry = customtkinter.CTkEntry(master=self.frame_right,
+        #                                    placeholder_text="type address",
+        #                                    width=140,
+        #                                    height=30,
+        #                                    corner_radius=8)
+        #self.entry.grid(row=1, column=0, sticky="we", padx=20, pady=20)
+        #self.entry.entry.bind("<Return>", self.search_event)
 
-        self.button_5 = customtkinter.CTkButton(master=self.frame_right,
-                                                height=30,
-                                                text="Search",
-                                                command=self.search_event,
-                                                border_width=0,
-                                                corner_radius=8)
-        self.button_5.grid(row=1, column=1, sticky="w", padx=10, pady=20)
+        #self.button_5 = customtkinter.CTkButton(master=self.frame_right,
+        #                                        height=30,
+        #                                        text="Search",
+        #                                        command=self.search_event,
+        #                                        border_width=0,
+        #                                        corner_radius=8)
+        #self.button_5.grid(row=1, column=1, sticky="w", padx=10, pady=20)
 
         self.slider_1 = customtkinter.CTkSlider(master=self.frame_right,
                                                 width=200,
@@ -86,21 +87,21 @@ class App(customtkinter.CTk):
 
         self.frame_left.grid_rowconfigure(0, minsize=10)
 
-        self.button_1 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Set Marker",
-                                                command=self.set_marker_event,
-                                                width=120, height=30,
-                                                border_width=0,
-                                                corner_radius=8)
-        self.button_1.grid(pady=10, padx=20, row=3, column=0)
+        #self.button_1 = customtkinter.CTkButton(master=self.frame_left,
+        #                                        text="Set Marker",
+        #                                        command=self.set_marker_event,
+        #                                        width=120, height=30,
+        #                                        border_width=0,
+        #                                        corner_radius=8)
+        #self.button_1.grid(pady=10, padx=20, row=3, column=0)
 
-        self.button_2 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Clear Markers",
-                                                command=self.clear_marker_event,
-                                                width=120, height=30,
-                                                border_width=0,
-                                                corner_radius=8)
-        self.button_2.grid(pady=10, padx=20, row=4, column=0)
+        #self.button_2 = customtkinter.CTkButton(master=self.frame_left,
+        #                                        text="Clear Markers",
+        #                                        command=self.clear_marker_event,
+        #                                        width=120, height=30,
+        #                                        border_width=0,
+        #                                        corner_radius=8)
+        #self.button_2.grid(pady=10, padx=20, row=4, column=0)
 
         self.button_3 = customtkinter.CTkButton(master=self.frame_left,
                                                text="Embark/Disembark",
@@ -108,7 +109,7 @@ class App(customtkinter.CTk):
                                                 width=120, height=30,
                                                 border_width=0,
                                                 corner_radius=8)
-        self.button_3.grid(pady=10, padx=20, row=5, column=0)
+        self.button_3.grid(pady=10, padx=20, row=3, column=0)
 
         # ============ stop_setup ============
         file = 'Files/stops.csv'
@@ -123,14 +124,19 @@ class App(customtkinter.CTk):
         for i in range(0,len(df)):
             print("Stop: " + df.iloc[i].Stop)
             #self.img_list.append(
-            #    [ImageTk.PhotoImage(Image.open(gr.graphStop(df.iloc[i].Stop, 0)).resize((500, 375))),
-            #     ImageTk.PhotoImage(Image.open(gr.graphStop(df.iloc[i].Stop, 1)).resize((500, 375)))])
+            #    [ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 0)).resize((500, 375))),
+            #    ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 1)).resize((500, 375)))])
             #print(self.img_list[i])
-            #mark = self.map_widget.set_marker(df.iloc[i].Latitude, df.iloc[i].Longitude, text=df.iloc[i].Stop, image=(self.img_list[i]),
-            #                                  image_zoom_visibility=(0, float("inf")), command=click_marker_event)
 
-            mark = self.map_widget.set_marker(df.iloc[i].Latitude, df.iloc[i].Longitude, text=df.iloc[i].Stop, image=(CRI_Embark,CRI_Disembark),
-                                              image_zoom_visibility=(0, float("inf")), command=click_marker_event)
+            self.img_list.append(
+                [ImageTk.PhotoImage(Image.open("Graphs/" + df.iloc[i].Stop + "_Embark.png").resize((500, 375))),
+                ImageTk.PhotoImage(Image.open("Graphs/" + df.iloc[i].Stop + "_Disembark.png").resize((500, 375)))])
+
+            mark = self.map_widget.set_marker(df.iloc[i].Latitude, df.iloc[i].Longitude, text=df.iloc[i].Stop, image=(self.img_list[i]),
+                                              image_zoom_visibility=(14, 20), command=click_marker_event)
+
+            #mark = self.map_widget.set_marker(df.iloc[i].Latitude, df.iloc[i].Longitude, text=df.iloc[i].Stop, image=(CRI_Embark,CRI_Disembark),
+            #                                  image_zoom_visibility=(0, float("inf")), command=click_marker_event)
             self.marker_list.append(mark)
             self.marker_list[i].hide_image(True)  # hide image
             #mark.hide_image(True)
