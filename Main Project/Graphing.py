@@ -4,29 +4,39 @@ import matplotlib.pyplot as plot
 import numpy as np
 from matplotlib.pyplot import figure
 
-def graphStop():
+def graphStop(stopName, emb):
     file = 'Files/file1Dataframe.csv'
     fileDataFrame = pd.read_csv(file, low_memory=False, index_col=0)
 
-    print(fileDataFrame)
-    print(fileDataFrame.dtypes)
-
-    stopName = "Student Union E"
+    #print(fileDataFrame)
+    #print(fileDataFrame.dtypes)
 
     dataforfretwell = fileDataFrame.loc[fileDataFrame['CorrectStop'] == stopName]
     dataforfretwell = dataforfretwell.reset_index()
 
-    print(dataforfretwell)
+    #print(dataforfretwell)
 
-    f = plot.figure()
-    f.set_figwidth(6)
+    fig = plot.figure()
+    fig.set_figwidth(6)
 
-    dataforfretwell = dataforfretwell.query('OnOff =="on"')
+    if emb == 0:
+        dataforfretwell = dataforfretwell.query('OnOff =="on"')
+    else:
+        dataforfretwell = dataforfretwell.query('OnOff =="off"')
 
     dataforfretwell.plot(kind = 'line', x='Time',y ='Count')
-    plot.title(stopName + ' Students Boarding the Bus')
-    plot.show()
-    #f.savefig("Graphs/" + stopName)
+    if emb == 0:
+        plot.title(stopName + ' Students Embarking the Bus')
+    else:
+        plot.title(stopName + ' Students Disembarking the Bus')
+    #plot.show()
+    if emb == 0:
+        plot.savefig("Graphs/" + stopName + "_Embark.png")
+        return "Graphs/" + stopName + "_Embark.png"
+    else:
+        plot.savefig("Graphs/" + stopName + "_Disembark.png")
+        return "Graphs/" + stopName + "_Disembark.png"
+
 def graphBus():
 
 
@@ -41,7 +51,7 @@ def graphBus():
 
     print(fileDataFrame.dtypes)
 
-    datafor2401 = fileDataFrame.loc[fileDataFrame['Bus'] == 2401]
+    datafor2401 = fileDataFrame.loc[fileDataFrame['Bus'] == 2409]
     datafor2401 = datafor2401.reset_index()
 
     print(datafor2401)
@@ -68,4 +78,4 @@ def graphBus():
     plot.show()
 
 
-graphBus()
+graphStop("CRI Deck", 0)
