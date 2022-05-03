@@ -9,7 +9,7 @@ class Stop(CanvasPositionMarker):
         self.timesLastPickup = timesLastPickup
         self.nextPickupPassengers = nextPickupPassengers
 
-
+    def update(self, ):
 
 
 
