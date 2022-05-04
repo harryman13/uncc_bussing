@@ -1,6 +1,6 @@
-from .canvas_position_marker import CanvasPositionMarker
+from tkintermapview import CanvasPositionMarker
 from .Stops import Stop
-import pandas as p
+import pandas as pd
 
 
 class Bus(CanvasPositionMarker):
