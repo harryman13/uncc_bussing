@@ -171,7 +171,6 @@ class Graphing:
 
         plot.show()
 
-
     # def create_graphs(self):
     #     file1 = 'Files/stops.csv'
     #     df = pd.read_csv(file1, low_memory=False, index_col=0)
@@ -180,3 +179,24 @@ class Graphing:
     #     for i in range(0, len(df)):
     #         self.graphStop(df.iloc[i].Stop, 0)
     #         self.graphStop(df.iloc[i].Stop, 1)
+    @staticmethod
+    def fillinGraph(dataframe, compareDataframe):
+        x = 0
+        cdfLength = compareDataframe.shape[0]
+        while x != dataframe.shape[0]:
+            if dataframe.loc[x].at["Stop"] != compareDataframe.loc[x % cdfLength].at["Stop"]:
+                Date = dataframe.loc[x].at["Date"]
+                Time = dataframe.loc[x].at["Time"] + 30
+                Bus = dataframe.loc[x].at["Bus"]
+                Count = 0
+                OnOff = "on"
+                Latitude = compareDataframe.loc[x % cdfLength].at["Latitude"]
+                Longitude = compareDataframe.loc[x % cdfLength].at["Longitude"]
+                Route = dataframe.loc[x].at["Route"]
+                Stop = compareDataframe.loc[x % cdfLength].at["Stop"]
+                dataline = pd.Series(data={"Date": Date, "Time": Time, "Bus": Bus, "Count": Count, "OnOff": OnOff,
+                                           "Latitude": Latitude, "Longitude": Longitude, "Route": Route, "Stop": Stop,
+                                           "CorrectStop": Stop}, name='x')
+                dataframe.append(dataline, Ignore_Index=False)
+            x = x + 1
+        return dataframe
