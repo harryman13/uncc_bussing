@@ -83,6 +83,7 @@ class TkinterMapView(tkinter.Frame):
         # bind events for mouse button pressed, mouse movement, and scrolling
         self.canvas.bind("<B1-Motion>", self.mouse_move)
         self.canvas.bind("<Button-1>", self.mouse_click)
+        self.canvas.bind("<Button-2>", self.middle_click)
         self.canvas.bind("<ButtonRelease-1>", self.mouse_release)
         self.canvas.bind("<MouseWheel>", self.mouse_zoom)
         self.bind('<Configure>', self.update_dimensions)
@@ -197,8 +198,16 @@ class TkinterMapView(tkinter.Frame):
         coordinate_mouse_pos = osm_to_decimal(tile_mouse_x, tile_mouse_y, round(self.zoom))
         return coordinate_mouse_pos
 
+    def middle_click(self, event):
+        coordinate_mouse_pos = self.convert_canvas_coords_to_decimal_coords(event.x, event.y)
+        self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "yes")
+
+    def insert_stop(self):
+        self.silverRoute.writeFile()
+
     def mouse_right_click(self, event):
         coordinate_mouse_pos = self.convert_canvas_coords_to_decimal_coords(event.x, event.y)
+        self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
 
         def click_coordinates_event():
             try:
@@ -213,26 +222,36 @@ class TkinterMapView(tkinter.Frame):
 
         def add_to_route():
             if self.currentRoute == "Silver":
-                self.silverRoute.addPoint([coordinate_mouse_pos[0], coordinate_mouse_pos[1]])
-                tkinter.messagebox.showinfo(title="", message="Point Added")
+                self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
+                #tkinter.messagebox.showinfo(title="", message="Point Added")
             else:
                 print("Not Silver Route")
 
+        def write():
+            if self.currentRoute == "Silver":
+                self.silverRoute.writeFile()
+                # tkinter.messagebox.showinfo(title="", message="Point Added")
+            else:
+                print("Writing to file failed, not silver")
 
         m = tkinter.Menu(self, tearoff=0)
-        m.add_command(label=f"{coordinate_mouse_pos[0]:.7f} {coordinate_mouse_pos[1]:.7f}",
-                      command=click_coordinates_event)
         m.add_command(label="Add to Route",
                       command=add_to_route)
+        m.add_command(label=f"{coordinate_mouse_pos[0]:.7f} {coordinate_mouse_pos[1]:.7f}",
+                      command=click_coordinates_event)
+        m.add_command(label="Write Route",
+                      command=write)
+
 
         if len(self.right_click_menu_commands) > 0:
             m.add_separator()
 
         for command in self.right_click_menu_commands:
+            print("Test")
             command_callback = lambda: command["command"](coordinate_mouse_pos) if command["pass_coords"] else command["command"]
             m.add_command(label=command["label"], command=command_callback)
 
-            m.tk_popup(event.x_root, event.y_root)  # display menu
+        #m.tk_popup(event.x_root, event.y_root)  # display menu
 
     def set_overlay_tile_server(self, overlay_server: str):
         self.overlay_tile_server = overlay_server
