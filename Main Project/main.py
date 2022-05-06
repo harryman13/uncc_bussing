@@ -1,9 +1,9 @@
-from tkintermapview import TkinterMapView
+from tkintermapview.map_widget import TkinterMapView
 import customtkinter
 from PIL import Image, ImageTk
 import pandas as pd
-import Query
-import Graphing
+from passtrack import Graphing as gr
+
 
 class App(customtkinter.CTk):
 
@@ -160,19 +160,24 @@ class App(customtkinter.CTk):
 
             # print(df.dtypes)
 
-            CRI_Embark = ImageTk.PhotoImage(Image.open("Graphs/CRI Deck_Disembark.png").resize((500, 375)))
-            CRI_Disembark = ImageTk.PhotoImage(Image.open("Graphs/CRI Deck_Embark.png").resize((500, 375)))
+            #CRI_Embark = ImageTk.PhotoImage(Image.open("Graphs/CRI Deck_Disembark.png").resize((500, 375)))
+            #CRI_Disembark = ImageTk.PhotoImage(Image.open("Graphs/CRI Deck_Embark.png").resize((500, 375)))
+
+            #gr.create_graphs()
 
             for i in range(0, len(df)):
                 print("Stop: " + df.iloc[i].Stop)
-                # self.img_list.append(
-                #    [ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 0)).resize((500, 375))),
-                #    ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 1)).resize((500, 375)))])
+                #self.img_list.append(
+                #   [ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 0)).resize((500, 375))),
+                #   ImageTk.PhotoImage(Image.open(graphStop(df.iloc[i].Stop, 1)).resize((500, 375)))])
                 # print(self.img_list[i])
-
+                image1 = ("Graphs/" + df.iloc[i].Stop + "_Embark.png")
+                image2 = ("Graphs/" + df.iloc[i].Stop + "_Disembark.png")
+                print(image1)
+                print(image2)
                 self.img_list.append(
-                    [ImageTk.PhotoImage(Image.open("Graphs/" + df.iloc[i].Stop + "_Embark.png").resize((500, 375))),
-                     ImageTk.PhotoImage(Image.open("Graphs/" + df.iloc[i].Stop + "_Disembark.png").resize((500, 375)))])
+                    [ImageTk.PhotoImage(Image.open(image1).resize((500, 375))),
+                     ImageTk.PhotoImage(Image.open(image2).resize((500, 375)))])
 
                 mark = self.map_widget.set_marker(df.iloc[i].Latitude, df.iloc[i].Longitude, text=df.iloc[i].Stop,
                                                   image=(self.img_list[i]),

@@ -14,12 +14,13 @@ import geocoder
 from PIL import Image, ImageTk
 from typing import Callable
 
+from passtrack import Routing as rt
+
 from .canvas_position_marker import CanvasPositionMarker
 from .canvas_tile import CanvasTile
 from .utility_functions import decimal_to_osm, osm_to_decimal
 from .canvas_button import CanvasButton
 from .canvas_path import CanvasPath
-
 
 class TkinterMapView(tkinter.Frame):
     def __init__(self, *args,
@@ -37,6 +38,8 @@ class TkinterMapView(tkinter.Frame):
         self.height = height
         self.corner_radius = corner_radius if corner_radius <= 30 else 30  # corner_radius can't be greater than 30
         self.configure(width=self.width, height=self.height)
+        self.silverRoute = rt.Routing("Silver")
+        self.currentRoute = "Silver"
 
         # detect color of master widget for rounded corners
         if bg_color is None:
@@ -208,9 +211,19 @@ class TkinterMapView(tkinter.Frame):
                 else:
                     tkinter.messagebox.showinfo(title="", message="Error copying to clipboard.\n" + str(err))
 
+        def add_to_route():
+            if self.currentRoute == "Silver":
+                self.silverRoute.addPoint([coordinate_mouse_pos[0], coordinate_mouse_pos[1]])
+                tkinter.messagebox.showinfo(title="", message="Point Added")
+            else:
+                print("Not Silver Route")
+
+
         m = tkinter.Menu(self, tearoff=0)
         m.add_command(label=f"{coordinate_mouse_pos[0]:.7f} {coordinate_mouse_pos[1]:.7f}",
                       command=click_coordinates_event)
+        m.add_command(label="Add to Route",
+                      command=add_to_route)
 
         if len(self.right_click_menu_commands) > 0:
             m.add_separator()
@@ -219,7 +232,7 @@ class TkinterMapView(tkinter.Frame):
             command_callback = lambda: command["command"](coordinate_mouse_pos) if command["pass_coords"] else command["command"]
             m.add_command(label=command["label"], command=command_callback)
 
-        m.tk_popup(event.x_root, event.y_root)  # display menu
+            m.tk_popup(event.x_root, event.y_root)  # display menu
 
     def set_overlay_tile_server(self, overlay_server: str):
         self.overlay_tile_server = overlay_server
