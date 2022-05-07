@@ -4,6 +4,8 @@ from PIL import Image, ImageTk
 import pandas as pd
 import numpy as np
 from passtrack import Graphing as gr
+from passtrack import Busses as b
+from passtrack import Query
 
 
 class App(customtkinter.CTk):
@@ -26,6 +28,8 @@ class App(customtkinter.CTk):
 
         self.marker_list = []
         self.img_list = []
+        self.pause = False
+
 
         def click_marker_event(marker):
             print("marker clicked:", marker.text)
@@ -60,6 +64,12 @@ class App(customtkinter.CTk):
         self.map_widget.grid(row=0, rowspan=1, column=0, columnspan=3, sticky="nswe", padx=20, pady=20)
         self.map_widget.set_position(35.307044, -80.734812)  # UNCC Campus
         self.map_widget.set_zoom(16)
+
+        self.SilverPathFile = pd.read_csv('Files/SilverDetailed.csv', index_col=0)
+        self.SilverPathFile = self.SilverPathFile.drop(columns="isStop")
+        self.SilverPathFile = self.SilverPathFile.drop(columns="Stop")
+        self.SilverPathFile = self.SilverPathFile.values
+        self.SilverPath = None
 
         #self.entry = customtkinter.CTkEntry(master=self.frame_right,
         #                                    placeholder_text="type address",
@@ -116,7 +126,7 @@ class App(customtkinter.CTk):
 
         self.button_4= customtkinter.CTkButton(master=self.frame_left,
                                                 text="Silver Route",
-                                                command=self.map_widget.insert_stop,
+                                                command=self.silverToggle,
                                                 width=120, height=30,
                                                 border_width=0,
                                                 corner_radius=8)
@@ -124,7 +134,7 @@ class App(customtkinter.CTk):
 
         self.button_5 = customtkinter.CTkButton(master=self.frame_left,
                                                 text="Gold Route",
-                                                command=self.map_widget.toggle_mode,
+                                                command=self.silverToggle,
                                                 width=120, height=30,
                                                 border_width=0,
                                                 corner_radius=8)
@@ -132,7 +142,7 @@ class App(customtkinter.CTk):
 
         self.button_6 = customtkinter.CTkButton(master=self.frame_left,
                                                 text="Green Route",
-                                                command=self.map_widget.toggle_mode,
+                                                command=self.map_widget.insert_stop,
                                                 width=120, height=30,
                                                 border_width=0,
                                                 corner_radius=8)
@@ -192,18 +202,45 @@ class App(customtkinter.CTk):
 
         stop_setup(self, 'Files/stops.csv')
 
+        file1 = pd.read_csv('Files/file1Dataframe.csv', index_col=0)
+        file1 = gr.fix(file1)
+        file1.to_csv('Files/file1New.csv')
+        self.uniqueBuses = file1.Bus.unique()
+        self.bus = []
+        for i in self.uniqueBuses:
+            print(i)
+            temp = file1.query("Bus == "+str(i))
+            temp = temp.reset_index()
+            temp = temp.drop(columns="index")
+            temp = gr.dt(temp)
+            self.bus.append(b.Bus(2407, 0, temp, self.map_widget))
 
-        my_data = pd.read_csv('Files/SilverDetailed.csv', index_col=0)
-        print(my_data)
-        my_data = my_data.drop(columns = "isStop")
-        my_data = my_data.values
+        for i in self.bus:
+            i.flatten()
+            i.detailedRoute = gr.fillinGraph(i.route, i.route.iloc[0].at["Route"])
+            i.detailedRoute.to_csv("Files/BusRoutes/" + str(i.BusNumber) + ".csv")
+        temp = file1.query("Bus ==  2407")
+        temp = temp.reset_index()
+        temp = temp.drop(columns="index")
+        temp = gr.dt(temp)
+        self.bus = b.Bus(2407, 0, temp, self.map_widget)
+        self.bus.flatten()
+        self.bus.detailedRoute = gr.fillinGraph(self.bus.route, "Silver")
 
-        path_1 = self.map_widget.set_path(my_data)
+        #bus_x, bus_y = self.bus.getPos(0)
+        #self.bus.set_position(bus_x, bus_y)
 
-
+        #self.time = self.bus.route.DateTime
 
     def slider_event(self, value):
         self.map_widget.set_zoom(value)
+
+    def silverToggle(self):
+        print("silverToggle")
+    #    if self.SilverPath is None:
+    #        self.SilverPath = self.map_widget.set_path(self.SilverPathFile)
+    #    else:
+    #        self.SilverPath.delete()
 
     def on_closing(self, event=0):
         self.destroy()
@@ -211,8 +248,21 @@ class App(customtkinter.CTk):
     def start(self):
         self.mainloop()
 
+    def upd(self):
+        if not self.pause:
+            self.time = self.time + pd.Timedelta(seconds = 10)
+            bus
+
 
 if __name__ == "__main__":
     app = App()
+
+    #set update time
+
+    #app.after(app.update_time, app.upd)
     app.start()
+    #while True:
+    #    app.update_idletasks()
+    #    app.update()
+
 

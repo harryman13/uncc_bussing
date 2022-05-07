@@ -14,5 +14,5 @@ class Routing:
         self.stopsList = self.stopsList.append(input,ignore_index=True)
 
     def writeFile(self):
-        self.stopsList.to_csv("Files/" + self.name + "DetailedBroke.csv")
-        self.stopsList.to_csv("Files/" + self.name + "Detailed.csv")
+        self.stopsList.to_csv("Files/" + self.name + "Detailedaddition.csv")
+        #self.stopsList.to_csv("Files/" + self.name + "Detailed.csv")

@@ -70,6 +70,7 @@ class CanvasPath:
             self.command(self)
 
     def draw(self, move=False):
+
         new_line_length = self.last_position_list_length != len(self.position_list)
         self.last_position_list_length = len(self.position_list)
 

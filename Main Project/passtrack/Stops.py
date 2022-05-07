@@ -1,4 +1,4 @@
-from tkintermapview import CanvasPositionMarker
+from tkintermapview.canvas_position_marker import CanvasPositionMarker
 
 
 class Stop(CanvasPositionMarker):

@@ -90,24 +90,114 @@ def create_graphs():
         graphStop(df.iloc[i].Stop, 0)
         graphStop(df.iloc[i].Stop, 1)
 
+def dt(df):
 
-def fillinGraph(dataframe, compareDataframe):
+    df["DateTime"] = pd.to_datetime((df['Date'] + ' ' + df['Time']))# , format= '%m/%d/%y %H:%M:%S')
+    df = df.drop(columns="Time")
+    df = df.drop(columns="Date")
+    print(df)
+    return df
+
+def nextStop(dataframe, index):
+    for i in range(index,len(dataframe)):
+        if dataframe.iloc[i].at("isStop") == "Yes":
+            return i
+
+def fillinGraph(dataframe, route):
     x = 0
-    cdfLength = compareDataframe.shape[0]
-    while x != dataframe.shape[0]:
-        if dataframe.loc[x].at["Stop"] != compareDataframe.loc[x % cdfLength].at["Stop"]:
-            Date = dataframe.loc[x].at["Date"]
-            Time = dataframe.loc[x].at["Time"] + 30
-            Bus = dataframe.loc[x].at["Bus"]
+    if route == "Silver":
+        compareDataframe = pd.read_csv("Files/SilverRoute.csv",index_col=0)
+    elif route == "Gold":
+        compareDataframe = pd.read_csv("Files/GoldRoute.csv",index_col=0)
+    elif route == "Green":
+        compareDataframe = pd.read_csv("Files/GreenRoute.csv",index_col=0)
+
+    cdfLength = len(compareDataframe)
+    while x < len(dataframe):
+        print("x:", x)
+        print(dataframe.iloc[x].at["CorrectStop"], " : ", compareDataframe.iloc[x % cdfLength].at["Stop"])
+        if dataframe.iloc[x].at["CorrectStop"] != compareDataframe.iloc[x % cdfLength].at["Stop"]:
+            #print("in loop")
+            DateTime = dataframe.iloc[x-1].at["DateTime"] + pd.Timedelta(seconds = 15)
+            Bus = dataframe.iloc[x].at["Bus"]
             Count = 0
             OnOff = "on"
-            Latitude = compareDataframe.loc[x % cdfLength].at["Latitude"]
-            Longitude = compareDataframe.loc[x % cdfLength].at["Longitude"]
-            Route = dataframe.loc[x].at["Route"]
-            Stop = compareDataframe.loc[x % cdfLength].at["Stop"]
-            dataline = pd.Series(data={"Date": Date, "Time": Time, "Bus": Bus, "Count": Count, "OnOff": OnOff,
+            Latitude = compareDataframe.iloc[x % cdfLength].at["Latitude"]
+            Longitude = compareDataframe.iloc[x % cdfLength].at["Longitude"]
+            Route = dataframe.iloc[x].at["Route"]
+            Stop = compareDataframe.iloc[x % cdfLength].at["Stop"]
+            dataline = pd.Series(data={"DateTime": DateTime, "Bus": Bus, "Count": Count, "OnOff": OnOff,
                                        "Latitude": Latitude, "Longitude": Longitude, "Route": Route, "Stop": Stop,
                                        "CorrectStop": Stop}, name='x')
-            dataframe.append(dataline, Ignore_Index=False)
+            dataline = dataline.transpose()
+            #print(dataline)
+            #dataframe = pd.concat([dataframe, dataline], ignore_index= True)
+            dataframe.loc[x-.5] = dataline
+            dataframe = dataframe.sort_index().reset_index(drop=True)
+            dataframe.to_csv("Files/ExpandedDataFrame.csv")
         x = x + 1
     return dataframe
+
+def fix(DataFrame):
+    for i in range(0,len(DataFrame)):
+        if DataFrame.CorrectStop[i] == "Levine Hall E":
+            if DataFrame.Route[i] == "Gold":
+                DataFrame.CorrectStop[i] = "Levine Hall W"
+
+        elif DataFrame.CorrectStop[i] == "Levine Hall W" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Levine Hall E"
+
+        elif DataFrame.CorrectStop[i] == "Student Health (Green) W" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Student Health E"
+
+        elif DataFrame.CorrectStop[i] == "Student Health E" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Student Health (Green) W"
+
+        elif DataFrame.CorrectStop[i] == "Student Union E" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Student Union W"
+
+        elif DataFrame.CorrectStop[i] == "Student Union W" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Student Union E"
+
+        elif DataFrame.CorrectStop[i] == "Wallis Hall W" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Wallis Hall E"
+
+        elif DataFrame.CorrectStop[i] == "Wallis Hall E" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Wallis Hall W"
+
+        elif DataFrame.CorrectStop[i] == "Cone Deck W" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Cone Deck East"
+
+        elif DataFrame.CorrectStop[i] == "Cone Deck East" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Cone Deck W"
+
+        elif DataFrame.CorrectStop[i] == "Hickory Hall North" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Hickory Hall South"
+
+        elif DataFrame.CorrectStop[i] == "Hickory Hall South" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Hickory Hall North"
+
+        elif DataFrame.CorrectStop[i] == "Hickory Hall South" and DataFrame.Route[i] == "Silver":
+            DataFrame.CorrectStop[i] = "Hickory Hall North"
+
+        elif DataFrame.CorrectStop[i] == "Aux Services East" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Fretwell N"
+
+        elif DataFrame.CorrectStop[i] == "Belk Hall S" and DataFrame.Route[i] == "Gold":
+            DataFrame.CorrectStop[i] = "Union Deck"
+
+        elif DataFrame.CorrectStop[i] == "Union Deck" and DataFrame.Route[i] == "Green":
+            DataFrame.CorrectStop[i] = "Belk Hall S"
+
+        elif DataFrame.CorrectStop[i] == "Fretwell S" and DataFrame.Route[i] == "Silver":
+            DataFrame.CorrectStop[i] = "Fretwell N"
+
+        elif DataFrame.CorrectStop[i] == "Alumni Way E" and DataFrame.Route[i] == "Silver":
+            DataFrame.CorrectStop[i] = DataFrame.Stop[i]
+
+        elif DataFrame.CorrectStop[i] == "Belk Hall S" and DataFrame.Route[i] == "Silver":
+            DataFrame.CorrectStop[i] = DataFrame.Stop[i]
+
+        elif DataFrame.CorrectStop[i] == "Cato Hall N" and DataFrame.Route[i] == "Silver":
+            DataFrame.CorrectStop[i] = DataFrame.Stop[i]
+    return DataFrame

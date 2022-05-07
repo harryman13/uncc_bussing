@@ -39,6 +39,8 @@ class TkinterMapView(tkinter.Frame):
         self.corner_radius = corner_radius if corner_radius <= 30 else 30  # corner_radius can't be greater than 30
         self.configure(width=self.width, height=self.height)
         self.silverRoute = rt.Routing("Silver")
+        self.goldRoute = rt.Routing("Gold")
+        self.greenRoute = rt.Routing("Green")
         self.currentRoute = "Silver"
 
         # detect color of master widget for rounded corners
@@ -200,14 +202,15 @@ class TkinterMapView(tkinter.Frame):
 
     def middle_click(self, event):
         coordinate_mouse_pos = self.convert_canvas_coords_to_decimal_coords(event.x, event.y)
-        self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "yes")
+        self.greenRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "yes")
 
     def insert_stop(self):
-        self.silverRoute.writeFile()
+        print("Write to File, but not")
+        #self.greenRoute.writeFile()
 
     def mouse_right_click(self, event):
         coordinate_mouse_pos = self.convert_canvas_coords_to_decimal_coords(event.x, event.y)
-        self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
+        self.greenRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
 
         def click_coordinates_event():
             try:
@@ -222,14 +225,14 @@ class TkinterMapView(tkinter.Frame):
 
         def add_to_route():
             if self.currentRoute == "Silver":
-                self.silverRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
+                self.greenRoute.addPoint(coordinate_mouse_pos[0], coordinate_mouse_pos[1], "no")
                 #tkinter.messagebox.showinfo(title="", message="Point Added")
             else:
                 print("Not Silver Route")
 
         def write():
             if self.currentRoute == "Silver":
-                self.silverRoute.writeFile()
+                self.greenRoute.writeFile()
                 # tkinter.messagebox.showinfo(title="", message="Point Added")
             else:
                 print("Writing to file failed, not silver")
