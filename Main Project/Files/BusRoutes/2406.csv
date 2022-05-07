@@ -1,0 +1,1649 @@
+,Bus,Count,OnOff,Latitude,Longitude,Route,Stop,CorrectStop,DateTime
+0,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 01:58:02
+1,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 01:58:17
+2,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 01:58:32
+3,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 01:58:47
+4,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:59:02
+5,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:59:17
+6,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:59:32
+7,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:59:47
+8,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 02:00:02
+9,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 02:00:17
+10,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 02:00:32
+11,2406,0,off,35.301113129,-80.735740662,Green,South Village Deck,South Village Deck,2019-11-13 06:27:16
+12,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 06:27:31
+13,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 06:27:46
+14,2406,1,on,35.305107117,-80.728218079,Green,Cato Hall N,Cato Hall N,2019-11-13 06:36:35
+15,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 06:36:50
+16,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 06:37:05
+17,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 06:37:20
+18,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 06:37:35
+19,2406,-1,off,35.313560486,-80.731864929,Green,North Deck,North Deck,2019-11-13 06:39:53
+20,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 06:40:08
+21,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 06:40:23
+22,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 06:40:38
+23,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 06:40:53
+24,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 06:41:08
+25,2406,1,on,35.306987762,-80.729522705,Green,Fretwell S,Fretwell S,2019-11-13 06:48:17
+26,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 06:48:32
+27,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 06:48:47
+28,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 06:49:02
+29,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 06:49:17
+30,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 06:49:32
+31,2406,3,on,35.301101685,-80.735733032,Green,South Village Deck,South Village Deck,2019-11-13 06:53:31
+32,2406,-3,off,35.302154541,-80.732727051,Green,Levine Hall E,Levine Hall E,2019-11-13 06:57:52
+33,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 06:58:07
+34,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 06:58:22
+35,2406,-1,off,35.307559967,-80.729354858,Green,Fretwell N,Fretwell N,2019-11-13 07:00:24
+36,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 07:00:39
+37,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 07:00:54
+38,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 07:01:09
+39,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 07:01:24
+40,2406,1,on,35.311962128,-80.733451843,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 07:08:04
+41,2406,2,on,35.310279846,-80.73613739,Green,Belk Hall S,Belk Hall S,2019-11-13 07:09:12
+42,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 07:09:27
+43,2406,1,on,35.308105469,-80.732879639,Green,Student Union E,Student Union E,2019-11-13 07:11:22
+44,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 07:11:37
+45,2406,-1,off,35.307006836,-80.729522705,Green,Fretwell S,Fretwell S,2019-11-13 07:13:20
+46,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 07:13:35
+47,2406,-3,off,35.303524017,-80.729560852,Green,Robinson Hall S,Robinson Hall S,2019-11-13 07:15:26
+48,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 07:15:41
+49,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 07:15:56
+50,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 07:16:11
+51,2406,-2,on,35.301166534,-80.735778809,Green,South Village Deck,South Village Deck,2019-11-13 07:20:20
+52,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 07:20:35
+53,2406,-2,off,35.303386688,-80.729469299,Green,Robinson Hall N,Robinson Hall N,2019-11-13 07:24:42
+54,2406,-1,off,35.305118561,-80.728225708,Green,Cato Hall N,Cato Hall N,2019-11-13 07:25:36
+55,2406,-4,off,35.307575226,-80.729309082,Green,Fretwell N,Fretwell N,2019-11-13 07:26:52
+56,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 07:27:07
+57,2406,2,on,35.310661316,-80.729263306,Green,Student Health N,Student Health N,2019-11-13 07:30:55
+58,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 07:31:10
+59,2406,4,on,35.31370163,-80.732017517,Green,North Deck,North Deck,2019-11-13 07:32:29
+60,2406,5,on,35.311927795,-80.733451843,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 07:35:31
+61,2406,3,on,35.310268402,-80.73613739,Green,Belk Hall S,Belk Hall S,2019-11-13 07:36:43
+62,2406,-2,off,35.308063507,-80.734809875,Green,Woodward Hall East,Woodward Hall East,2019-11-13 07:37:55
+63,2406,-1,off,35.308258057,-80.73285675,Green,Student Union E,Student Union E,2019-11-13 07:38:39
+64,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 07:38:54
+65,2406,-8,off,35.30701828,-80.729515076,Green,Fretwell S,Fretwell S,2019-11-13 07:40:47
+66,2406,-1,on,35.305156708,-80.72832489,Green,Cato Hall S,Cato Hall S,2019-11-13 07:41:43
+67,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 07:41:58
+68,2406,-2,off,35.304550171,-80.732711792,Green,Reese East,Reese East,2019-11-13 07:44:15
+69,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 07:44:30
+70,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 07:44:45
+71,2406,9,on,35.301204681,-80.735771179,Green,South Village Deck,South Village Deck,2019-11-13 07:49:51
+72,2406,-1,off,35.302200317,-80.732772827,Green,Levine Hall E,Levine Hall E,2019-11-13 07:51:21
+73,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 07:51:36
+74,2406,-4,off,35.305130005,-80.728225708,Green,Cato Hall N,Cato Hall N,2019-11-13 07:53:51
+75,2406,-3,off,35.307548523,-80.729301453,Green,Fretwell N,Fretwell N,2019-11-13 07:55:45
+76,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 07:56:00
+77,2406,1,on,35.310649872,-80.729248047,Green,Student Health N,Student Health N,2019-11-13 07:59:21
+78,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 07:59:36
+79,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 07:59:51
+80,2406,3,on,35.311935425,-80.733451843,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 08:04:49
+81,2406,1,on,35.310306549,-80.736083984,Green,Belk Hall S,Belk Hall S,2019-11-13 08:06:20
+82,2406,-4,off,35.30802536,-80.734786987,Green,Woodward Hall East,Woodward Hall East,2019-11-13 08:07:54
+83,2406,-1,off,35.308227539,-80.732810974,Green,Student Union E,Student Union E,2019-11-13 08:09:00
+84,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 08:09:15
+85,2406,-1,off,35.307044983,-80.729484558,Green,Fretwell S,Fretwell S,2019-11-13 08:10:26
+86,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 08:10:41
+87,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 08:10:56
+88,2406,-1,off,35.304653168,-80.732696533,Green,Reese East,Reese East,2019-11-13 08:14:10
+89,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 08:14:25
+90,2406,1,on,35.302661896,-80.737785339,Green,Alumni Way E,Alumni Way E,2019-11-13 08:15:50
+91,2406,1,on,35.301345825,-80.735733032,Green,South Village Deck,South Village Deck,2019-11-13 08:16:40
+92,2406,1,on,35.302146912,-80.732727051,Green,Levine Hall E,Levine Hall E,2019-11-13 08:19:54
+93,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 08:20:09
+94,2406,1,on,35.305149078,-80.728225708,Green,Cato Hall N,Cato Hall N,2019-11-13 08:21:50
+95,2406,-2,off,35.307552338,-80.729278564,Green,Fretwell N,Fretwell N,2019-11-13 08:23:12
+96,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 08:23:27
+97,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 08:23:42
+98,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 08:23:57
+99,2406,3,on,35.313640594,-80.731987,Green,North Deck,North Deck,2019-11-13 08:28:26
+100,2406,4,on,35.311901093,-80.73348999,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 08:31:12
+101,2406,3,on,35.310222626,-80.736091614,Green,Belk Hall S,Belk Hall S,2019-11-13 08:32:32
+102,2406,-1,off,35.307994843,-80.734741211,Green,Woodward Hall East,Woodward Hall East,2019-11-13 08:33:48
+103,2406,0,off,35.308082581,-80.732780457,Green,Student Union E,Student Union E,2019-11-13 08:35:14
+104,2406,0,on,35.308071136,-80.730453491,Green,Aux Services East,Aux Services East,2019-11-13 08:36:28
+105,2406,-5,on,35.306991577,-80.729423523,Green,Fretwell S,Fretwell S,2019-11-13 08:37:26
+106,2406,2,off,35.305091858,-80.728210449,Green,Cato Hall S,Cato Hall S,2019-11-13 08:38:50
+107,2406,-1,off,35.303508759,-80.729492188,Green,Robinson Hall S,Robinson Hall S,2019-11-13 08:39:56
+108,2406,-2,off,35.304462433,-80.732582092,Green,Reese East,Reese East,2019-11-13 08:41:42
+109,2406,0,off,35.304298401,-80.734970093,Green,Cone Deck W,Cone Deck W,2019-11-13 08:42:30
+110,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 08:42:45
+111,2406,4,off,35.301174164,-80.73576355,Green,South Village Deck,South Village Deck,2019-11-13 08:45:23
+112,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 08:45:38
+113,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 08:45:53
+114,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 08:46:08
+115,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 08:46:23
+116,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 08:46:38
+117,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 08:46:53
+118,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 08:47:08
+119,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 08:47:23
+120,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 08:47:38
+121,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 08:47:53
+122,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 08:48:08
+123,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 08:48:23
+124,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 08:48:38
+125,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 08:48:53
+126,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 08:49:08
+127,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 08:49:23
+128,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 08:49:38
+129,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 08:49:53
+130,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 08:50:08
+131,2406,2,on,35.301170349,-80.735771179,Green,South Village Deck,South Village Deck,2019-11-13 08:48:15
+132,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 08:48:30
+133,2406,-1,off,35.303359985,-80.729476929,Green,Robinson Hall N,Robinson Hall N,2019-11-13 08:50:41
+134,2406,-5,off,35.305080414,-80.728172302,Green,Cato Hall N,Cato Hall N,2019-11-13 08:52:05
+135,2406,-1,off,35.30758667,-80.729148865,Green,Fretwell N,Fretwell N,2019-11-13 08:54:07
+136,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 08:54:22
+137,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 08:54:37
+138,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 08:54:52
+139,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 08:55:07
+140,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 08:55:22
+141,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 08:55:37
+142,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 08:55:52
+143,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 08:56:07
+144,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 08:56:22
+145,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 08:56:37
+146,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 08:56:52
+147,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 08:57:07
+148,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 08:57:22
+149,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 08:57:37
+150,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 08:57:52
+151,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 08:58:07
+152,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 08:58:22
+153,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 08:58:37
+154,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 08:58:52
+155,2406,4,on,35.307594299,-80.729171753,Green,Fretwell N,Fretwell N,2019-11-13 08:57:55
+156,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 08:58:10
+157,2406,-3,on,35.310710907,-80.72933197,Green,Student Health N,Student Health N,2019-11-13 08:59:09
+158,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 08:59:24
+159,2406,3,on,35.313518524,-80.731918335,Green,North Deck,North Deck,2019-11-13 09:01:37
+160,2406,1,off,35.311954498,-80.733436584,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 09:05:05
+161,2406,-1,off,35.31016922,-80.736114502,Green,Belk Hall S,Belk Hall S,2019-11-13 09:08:27
+162,2406,-2,off,35.30796051,-80.734802246,Green,Woodward Hall East,Woodward Hall East,2019-11-13 09:09:47
+163,2406,4,off,35.30809021,-80.732780457,Green,Student Union E,Student Union E,2019-11-13 09:10:53
+164,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 09:11:08
+165,2406,-4,off,35.306991577,-80.729354858,Green,Fretwell S,Fretwell S,2019-11-13 09:12:57
+166,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 09:13:12
+167,2406,-4,off,35.303520203,-80.729515076,Green,Robinson Hall S,Robinson Hall S,2019-11-13 09:15:21
+168,2406,0,on,35.304363251,-80.732589722,Green,Reese East,Reese East,2019-11-13 09:17:03
+169,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 09:17:18
+170,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 09:17:33
+171,2406,0,off,35.301094055,-80.735733032,Green,South Village Deck,South Village Deck,2019-11-13 09:19:56
+172,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 09:20:11
+173,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 09:20:26
+174,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 09:20:41
+175,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 09:20:56
+176,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 09:21:11
+177,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 09:21:26
+178,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 09:21:41
+179,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 09:21:56
+180,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 09:22:11
+181,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 09:22:26
+182,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 09:22:41
+183,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 09:22:56
+184,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 09:23:11
+185,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 09:23:26
+186,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 09:23:41
+187,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 09:23:56
+188,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 09:24:11
+189,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 09:24:26
+190,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 09:24:41
+191,2406,1,on,35.301094055,-80.735725403,Green,South Village Deck,South Village Deck,2019-11-13 09:23:30
+192,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 09:23:45
+193,2406,0,on,35.303379059,-80.729476929,Green,Robinson Hall N,Robinson Hall N,2019-11-13 09:26:56
+194,2406,-1,off,35.305183411,-80.72820282,Green,Cato Hall N,Cato Hall N,2019-11-13 09:27:46
+195,2406,-2,off,35.307647705,-80.729370117,Green,Fretwell N,Fretwell N,2019-11-13 09:29:20
+196,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 09:29:35
+197,2406,3,on,35.31073761,-80.729362488,Green,Student Health N,Student Health N,2019-11-13 09:34:14
+198,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 09:34:29
+199,2406,2,on,35.313682556,-80.731887817,Green,North Deck,North Deck,2019-11-13 09:35:56
+200,2406,12,on,35.31193924,-80.733451843,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 09:39:26
+201,2406,4,on,35.310203552,-80.735939026,Green,Belk Hall S,Belk Hall S,2019-11-13 09:40:48
+202,2406,-5,off,35.307910919,-80.734703064,Green,Woodward Hall East,Woodward Hall East,2019-11-13 09:42:08
+203,2406,5,off,35.308074951,-80.73274231,Green,Student Union E,Student Union E,2019-11-13 09:43:02
+204,2406,2,on,35.308067322,-80.730300903,Green,Aux Services East,Aux Services East,2019-11-13 09:44:26
+205,2406,-9,off,35.307041168,-80.729469299,Green,Fretwell S,Fretwell S,2019-11-13 09:45:26
+206,2406,-2,off,35.305324554,-80.728126526,Green,Cato Hall S,Cato Hall S,2019-11-13 09:46:26
+207,2406,-4,off,35.303672791,-80.729637146,Green,Robinson Hall S,Robinson Hall S,2019-11-13 09:47:34
+208,2406,-4,off,35.304298401,-80.732948303,Green,Reese East,Reese East,2019-11-13 09:49:08
+209,2406,2,on,35.303939819,-80.73500061,Green,Cone Deck W,Cone Deck W,2019-11-13 09:50:02
+210,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 09:50:17
+211,2406,10,off,35.301124573,-80.735694885,Green,South Village Deck,South Village Deck,2019-11-13 09:52:30
+212,2406,-1,off,35.302116394,-80.732566833,Green,Levine Hall E,Levine Hall E,2019-11-13 09:54:37
+213,2406,-2,on,35.303340912,-80.729354858,Green,Robinson Hall N,Robinson Hall N,2019-11-13 09:55:49
+214,2406,-1,on,35.305076599,-80.728126526,Green,Cato Hall N,Cato Hall N,2019-11-13 09:56:51
+215,2406,-5,off,35.307628632,-80.729270935,Green,Fretwell N,Fretwell N,2019-11-13 09:59:01
+216,2406,-2,off,35.308982849,-80.729133606,Green,Hickory Hall North,Hickory Hall North,2019-11-13 10:00:43
+217,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 10:00:58
+218,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 10:01:13
+219,2406,0,off,35.313606262,-80.731956482,Green,North Deck,North Deck,2019-11-13 10:03:15
+220,2406,-1,on,35.311927795,-80.733421326,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 10:06:15
+221,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 10:06:30
+222,2406,3,on,35.308094025,-80.734970093,Green,Woodward Hall East,Woodward Hall East,2019-11-13 10:11:01
+223,2406,3,off,35.308113098,-80.732849121,Green,Student Union E,Student Union E,2019-11-13 10:12:35
+224,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 10:12:50
+225,2406,-1,on,35.307163239,-80.729621887,Green,Fretwell S,Fretwell S,2019-11-13 10:15:17
+226,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 10:15:32
+227,2406,-1,off,35.303859711,-80.729927063,Green,Robinson Hall S,Robinson Hall S,2019-11-13 10:17:59
+228,2406,-4,on,35.304222107,-80.732536316,Green,Reese East,Reese East,2019-11-13 10:19:29
+229,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 10:19:44
+230,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 10:19:59
+231,2406,-1,off,35.301094055,-80.735733032,Green,South Village Deck,South Village Deck,2019-11-13 10:21:53
+232,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 10:22:08
+233,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 10:22:23
+234,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 10:22:38
+235,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 10:22:53
+236,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 10:23:08
+237,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 10:23:23
+238,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 10:23:38
+239,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 10:23:53
+240,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 10:24:08
+241,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 10:24:23
+242,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 10:24:38
+243,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 10:24:53
+244,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 10:25:08
+245,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 10:25:23
+246,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 10:25:38
+247,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 10:25:53
+248,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 10:26:08
+249,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 10:26:23
+250,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 10:26:38
+251,2406,2,on,35.301094055,-80.735740662,Green,South Village Deck,South Village Deck,2019-11-13 10:23:21
+252,2406,-1,off,35.302158356,-80.732772827,Green,Levine Hall E,Levine Hall E,2019-11-13 10:24:51
+253,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 10:25:06
+254,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 10:25:21
+255,2406,-1,off,35.307479858,-80.729286194,Green,Fretwell N,Fretwell N,2019-11-13 10:29:23
+256,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 10:29:38
+257,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 10:29:53
+258,2406,-1,off,35.311653137,-80.730422974,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 10:33:36
+259,2406,1,on,35.313549042,-80.731826782,Green,North Deck,North Deck,2019-11-13 10:34:44
+260,2406,0,off,35.312038422,-80.733444214,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 10:37:36
+261,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 10:37:51
+262,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 10:38:06
+263,2406,3,off,35.308082581,-80.732704163,Green,Student Union E,Student Union E,2019-11-13 10:41:18
+264,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 10:41:33
+265,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 10:41:48
+266,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 10:42:03
+267,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 10:42:18
+268,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 10:42:33
+269,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 10:42:48
+270,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 10:43:03
+271,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 10:43:18
+272,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 10:43:33
+273,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 10:43:48
+274,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 10:44:03
+275,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 10:44:18
+276,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 10:44:33
+277,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 10:44:48
+278,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 10:45:03
+279,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 10:45:18
+280,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 10:45:33
+281,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 10:45:48
+282,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 10:46:03
+283,2406,4,off,35.308029175,-80.732582092,Green,Student Union E,Student Union E,2019-11-13 10:41:56
+284,2406,0,on,35.308105469,-80.730400085,Green,Aux Services East,Aux Services East,2019-11-13 10:47:00
+285,2406,-1,off,35.306980133,-80.72959137,Green,Fretwell S,Fretwell S,2019-11-13 10:48:20
+286,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 10:48:35
+287,2406,-2,off,35.303607941,-80.729553223,Green,Robinson Hall S,Robinson Hall S,2019-11-13 10:51:10
+288,2406,-6,on,35.304450989,-80.732719421,Green,Reese East,Reese East,2019-11-13 10:53:02
+289,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 10:53:17
+290,2406,2,on,35.302791595,-80.73765564,Green,Alumni Way E,Alumni Way E,2019-11-13 10:55:50
+291,2406,17,off,35.30115509,-80.735717773,Green,South Village Deck,South Village Deck,2019-11-13 10:56:50
+292,2406,4,on,35.302238464,-80.732765198,Green,Levine Hall E,Levine Hall E,2019-11-13 10:58:42
+293,2406,1,on,35.303421021,-80.72946167,Green,Robinson Hall N,Robinson Hall N,2019-11-13 11:00:08
+294,2406,-9,off,35.305149078,-80.728233337,Green,Cato Hall N,Cato Hall N,2019-11-13 11:01:24
+295,2406,-1,off,35.307659149,-80.729278564,Green,Fretwell N,Fretwell N,2019-11-13 11:04:28
+296,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 11:04:43
+297,2406,0,off,35.310764313,-80.729286194,Green,Student Health N,Student Health N,2019-11-13 11:06:02
+298,2406,-2,off,35.311595917,-80.730461121,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 11:07:06
+299,2406,2,off,35.313411713,-80.732002258,Green,North Deck,North Deck,2019-11-13 11:08:18
+300,2406,8,off,35.311981201,-80.733306885,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 11:10:35
+301,2406,1,off,35.310440063,-80.736038208,Green,Belk Hall S,Belk Hall S,2019-11-13 11:12:23
+302,2406,-2,on,35.307430267,-80.73475647,Green,Woodward Hall East,Woodward Hall East,2019-11-13 11:14:03
+303,2406,-2,off,35.308063507,-80.732765198,Green,Student Union E,Student Union E,2019-11-13 11:15:53
+304,2406,-2,off,35.30809021,-80.730392456,Green,Aux Services East,Aux Services East,2019-11-13 11:17:31
+305,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 11:17:46
+306,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 11:18:01
+307,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 11:18:16
+308,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 11:18:31
+309,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 11:18:46
+310,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 11:19:01
+311,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 11:19:16
+312,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 11:19:31
+313,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 11:19:46
+314,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 11:20:01
+315,2406,1,off,35.307224274,-80.729614258,Green,Fretwell S,Fretwell N,2019-11-13 11:19:15
+316,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 11:19:30
+317,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 11:19:45
+318,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 11:20:00
+319,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 11:20:15
+320,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 11:20:30
+321,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 11:20:45
+322,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 11:21:00
+323,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 11:21:15
+324,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 11:21:30
+325,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 11:21:45
+326,2406,-9,on,35.305534363,-80.728302002,Green,Fretwell S,Cato Hall S,2019-11-13 11:21:17
+327,2406,1,off,35.303714752,-80.729507446,Green,Robinson Hall S,Robinson Hall S,2019-11-13 11:22:23
+328,2406,-2,off,35.30456543,-80.732749939,Green,Reese East,Reese East,2019-11-13 11:24:33
+329,2406,-3,off,35.304042816,-80.734893799,Green,Cone Deck W,Cone Deck W,2019-11-13 11:25:27
+330,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 11:25:42
+331,2406,0,off,35.30103302,-80.735694885,Green,South Village Deck,South Village Deck,2019-11-13 11:27:59
+332,2406,0,on,35.302131653,-80.732727051,Green,Levine Hall E,Levine Hall E,2019-11-13 11:29:25
+333,2406,-1,off,35.303321838,-80.729469299,Green,Robinson Hall N,Robinson Hall N,2019-11-13 11:31:15
+334,2406,-1,on,35.305210114,-80.728286743,Green,Cato Hall N,Cato Hall N,2019-11-13 11:32:27
+335,2406,1,on,35.30783844,-80.729423523,Green,Fretwell N,Fretwell N,2019-11-13 11:34:57
+336,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 11:35:12
+337,2406,-1,off,35.310760498,-80.729316711,Green,Student Health N,Student Health N,2019-11-13 11:36:49
+338,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 11:37:04
+339,2406,-1,off,35.313247681,-80.731880188,Green,North Deck,North Deck,2019-11-13 11:38:59
+340,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 11:39:14
+341,2406,4,on,35.310256958,-80.736175537,Green,Belk Hall S,Belk Hall S,2019-11-13 11:43:13
+342,2406,-2,off,35.307952881,-80.734786987,Green,Woodward Hall East,Woodward Hall East,2019-11-13 11:45:17
+343,2406,10,off,35.308082581,-80.732704163,Green,Student Union E,Student Union E,2019-11-13 11:46:40
+344,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 11:46:55
+345,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 11:47:10
+346,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 11:47:25
+347,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 11:47:40
+348,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 11:47:55
+349,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 11:48:10
+350,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 11:48:25
+351,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 11:48:40
+352,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 11:48:55
+353,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 11:49:10
+354,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 11:49:25
+355,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 11:49:40
+356,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 11:49:55
+357,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 11:50:10
+358,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 11:50:25
+359,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 11:50:40
+360,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 11:50:55
+361,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 11:51:10
+362,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 11:51:25
+363,2406,-1,off,35.308086395,-80.732696533,Green,Student Union E,Student Union E,2019-11-13 11:47:54
+364,2406,-3,off,35.308063507,-80.73034668,Green,Aux Services East,Aux Services East,2019-11-13 11:49:30
+365,2406,-5,off,35.306877136,-80.72958374,Green,Fretwell S,Fretwell S,2019-11-13 11:50:50
+366,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 11:51:05
+367,2406,-1,off,35.303474426,-80.729454041,Green,Robinson Hall S,Robinson Hall S,2019-11-13 11:53:36
+368,2406,-3,off,35.304332733,-80.732666016,Green,Reese East,Reese East,2019-11-13 11:55:10
+369,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 11:55:25
+370,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 11:55:40
+371,2406,2,off,35.301116943,-80.735671997,Green,South Village Deck,South Village Deck,2019-11-13 11:58:02
+372,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 11:58:17
+373,2406,2,on,35.303359985,-80.729431152,Green,Robinson Hall N,Robinson Hall N,2019-11-13 12:00:32
+374,2406,-3,off,35.305103302,-80.728187561,Green,Cato Hall N,Cato Hall N,2019-11-13 12:01:24
+375,2406,-1,off,35.307415009,-80.729301453,Green,Fretwell N,Fretwell N,2019-11-13 12:02:50
+376,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 12:03:05
+377,2406,1,on,35.310714722,-80.729255676,Green,Student Health N,Student Health N,2019-11-13 12:04:26
+378,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 12:04:41
+379,2406,1,on,35.313930511,-80.732185364,Green,North Deck,North Deck,2019-11-13 12:06:16
+380,2406,2,off,35.311958313,-80.733421326,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 12:09:10
+381,2406,2,on,35.310241699,-80.736175537,Green,Belk Hall S,Belk Hall S,2019-11-13 12:11:40
+382,2406,1,on,35.307983398,-80.734840393,Green,Woodward Hall East,Woodward Hall East,2019-11-13 12:12:54
+383,2406,3,off,35.308113098,-80.732658386,Green,Student Union E,Student Union E,2019-11-13 12:14:00
+384,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 12:14:15
+385,2406,-3,on,35.307006836,-80.729446411,Green,Fretwell S,Fretwell S,2019-11-13 12:16:22
+386,2406,0,off,35.305065155,-80.728050232,Green,Cato Hall S,Cato Hall S,2019-11-13 12:18:08
+387,2406,-1,off,35.303447723,-80.729469299,Green,Robinson Hall S,Robinson Hall S,2019-11-13 12:19:32
+388,2406,-1,off,35.304374695,-80.732765198,Green,Reese East,Reese East,2019-11-13 12:21:07
+389,2406,-3,off,35.304012299,-80.73487854,Green,Cone Deck W,Cone Deck W,2019-11-13 12:21:59
+390,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 12:22:14
+391,2406,3,off,35.301036835,-80.735877991,Green,South Village Deck,South Village Deck,2019-11-13 12:25:25
+392,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 12:25:40
+393,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 12:25:55
+394,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 12:26:10
+395,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 12:26:25
+396,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 12:26:40
+397,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 12:26:55
+398,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 12:27:10
+399,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 12:27:25
+400,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 12:27:40
+401,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 12:27:55
+402,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 12:28:10
+403,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 12:28:25
+404,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 12:28:40
+405,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 12:28:55
+406,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 12:29:10
+407,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 12:29:25
+408,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 12:29:40
+409,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 12:29:55
+410,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 12:30:10
+411,2406,1,on,35.301120758,-80.735725403,Green,South Village Deck,South Village Deck,2019-11-13 12:30:45
+412,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 12:31:00
+413,2406,1,on,35.303359985,-80.729393005,Green,Robinson Hall N,Robinson Hall N,2019-11-13 12:34:42
+414,2406,1,on,35.305168152,-80.728263855,Green,Cato Hall N,Cato Hall N,2019-11-13 12:35:36
+415,2406,-2,off,35.307617188,-80.729454041,Green,Fretwell N,Fretwell N,2019-11-13 12:37:06
+416,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 12:37:21
+417,2406,2,on,35.310775757,-80.729179382,Green,Student Health N,Student Health N,2019-11-13 12:38:34
+418,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 12:38:49
+419,2406,1,off,35.313411713,-80.731941223,Green,North Deck,North Deck,2019-11-13 12:40:10
+420,2406,5,on,35.312187195,-80.733528137,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 12:44:08
+421,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 12:44:23
+422,2406,-2,off,35.308010101,-80.734840393,Green,Woodward Hall East,Woodward Hall East,2019-11-13 12:48:04
+423,2406,2,off,35.307975769,-80.732650757,Green,Student Union E,Student Union E,2019-11-13 12:49:06
+424,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 12:49:21
+425,2406,-3,on,35.306827545,-80.729476929,Green,Fretwell S,Fretwell S,2019-11-13 12:51:20
+426,2406,-1,off,35.305171967,-80.728302002,Green,Cato Hall S,Cato Hall S,2019-11-13 12:53:00
+427,2406,-2,off,35.303409576,-80.729515076,Green,Robinson Hall S,Robinson Hall S,2019-11-13 12:53:52
+428,2406,-2,off,35.304325104,-80.732582092,Green,Reese East,Reese East,2019-11-13 12:55:30
+429,2406,1,on,35.304267883,-80.73500824,Green,Cone Deck W,Cone Deck W,2019-11-13 12:56:12
+430,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 12:56:27
+431,2406,7,off,35.30103302,-80.735717773,Green,South Village Deck,South Village Deck,2019-11-13 12:58:34
+432,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 12:58:49
+433,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 12:59:04
+434,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 12:59:19
+435,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 12:59:34
+436,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 12:59:49
+437,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 13:00:04
+438,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 13:00:19
+439,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 13:00:34
+440,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 13:00:49
+441,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 13:01:04
+442,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 13:01:19
+443,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 13:01:34
+444,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 13:01:49
+445,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 13:02:04
+446,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 13:02:19
+447,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 13:02:34
+448,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 13:02:49
+449,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 13:03:04
+450,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 13:03:19
+451,2406,3,on,35.30103302,-80.735664368,Green,South Village Deck,South Village Deck,2019-11-13 13:02:44
+452,2406,0,off,35.30216217,-80.732788086,Green,Levine Hall E,Levine Hall E,2019-11-13 13:03:52
+453,2406,-3,off,35.30330658,-80.729385376,Green,Robinson Hall N,Robinson Hall N,2019-11-13 13:05:24
+454,2406,-3,on,35.304958344,-80.728096008,Green,Cato Hall N,Cato Hall N,2019-11-13 13:06:30
+455,2406,4,off,35.307826996,-80.729499817,Green,Fretwell N,Fretwell N,2019-11-13 13:08:25
+456,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 13:08:40
+457,2406,1,on,35.310649872,-80.729270935,Green,Student Health N,Student Health N,2019-11-13 13:12:53
+458,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 13:13:08
+459,2406,-4,on,35.313621521,-80.731971741,Green,North Deck,North Deck,2019-11-13 13:14:39
+460,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 13:14:54
+461,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 13:15:09
+462,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 13:15:24
+463,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 13:15:39
+464,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 13:15:54
+465,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 13:16:09
+466,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 13:16:24
+467,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 13:16:39
+468,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 13:16:54
+469,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 13:17:09
+470,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 13:17:24
+471,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 13:17:39
+472,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 13:17:54
+473,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 13:18:09
+474,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 13:18:24
+475,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 13:18:39
+476,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 13:18:54
+477,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 13:19:09
+478,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 13:19:24
+479,2406,1,on,35.313396454,-80.732063293,Green,North Deck,North Deck,2019-11-13 13:15:51
+480,2406,0,off,35.311927795,-80.733451843,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 13:17:01
+481,2406,1,off,35.310279846,-80.736122131,Green,Belk Hall S,Belk Hall S,2019-11-13 13:18:29
+482,2406,2,off,35.307910919,-80.734794617,Green,Woodward Hall East,Woodward Hall East,2019-11-13 13:20:11
+483,2406,16,off,35.307929993,-80.732543945,Green,Student Union E,Student Union E,2019-11-13 13:21:59
+484,2406,3,on,35.307971954,-80.730369568,Green,Aux Services East,Aux Services East,2019-11-13 13:23:33
+485,2406,-9,on,35.306999207,-80.729515076,Green,Fretwell S,Fretwell S,2019-11-13 13:24:35
+486,2406,-4,off,35.305103302,-80.728309631,Green,Cato Hall S,Cato Hall S,2019-11-13 13:26:27
+487,2406,-5,off,35.303451538,-80.729576111,Green,Robinson Hall S,Robinson Hall S,2019-11-13 13:27:53
+488,2406,-1,off,35.304347992,-80.732841492,Green,Reese East,Reese East,2019-11-13 13:29:27
+489,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 13:29:42
+490,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 13:29:57
+491,2406,-8,off,35.301078796,-80.735748291,Green,South Village Deck,South Village Deck,2019-11-13 13:32:23
+492,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 13:32:38
+493,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 13:32:53
+494,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 13:33:08
+495,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 13:33:23
+496,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 13:33:38
+497,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 13:33:53
+498,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 13:34:08
+499,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 13:34:23
+500,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 13:34:38
+501,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 13:34:53
+502,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 13:35:08
+503,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 13:35:23
+504,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 13:35:38
+505,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 13:35:53
+506,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 13:36:08
+507,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 13:36:23
+508,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 13:36:38
+509,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 13:36:53
+510,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 13:37:08
+511,2406,3,on,35.301151276,-80.735839844,Green,South Village Deck,South Village Deck,2019-11-13 13:34:05
+512,2406,-2,off,35.302143097,-80.732788086,Green,Levine Hall E,Levine Hall E,2019-11-13 13:35:51
+513,2406,-4,off,35.303409576,-80.729515076,Green,Robinson Hall N,Robinson Hall N,2019-11-13 13:36:59
+514,2406,1,on,35.305366516,-80.728401184,Green,Cato Hall N,Cato Hall N,2019-11-13 13:38:01
+515,2406,2,off,35.307601929,-80.729385376,Green,Fretwell N,Fretwell N,2019-11-13 13:39:21
+516,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 13:39:36
+517,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 13:39:51
+518,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 13:40:06
+519,2406,3,off,35.313453674,-80.731910706,Green,North Deck,North Deck,2019-11-13 13:44:13
+520,2406,2,off,35.31193161,-80.733398438,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 13:47:24
+521,2406,2,off,35.310276031,-80.736083984,Green,Belk Hall S,Belk Hall S,2019-11-13 13:48:46
+522,2406,-2,off,35.307975769,-80.734771729,Green,Woodward Hall East,Woodward Hall East,2019-11-13 13:50:10
+523,2406,1,off,35.307941437,-80.732582092,Green,Student Union E,Student Union E,2019-11-13 13:51:20
+524,2406,-2,off,35.307987213,-80.730308533,Green,Aux Services East,Aux Services East,2019-11-13 13:52:24
+525,2406,1,off,35.306911469,-80.729560852,Green,Fretwell S,Fretwell S,2019-11-13 13:53:24
+526,2406,-2,off,35.305038452,-80.728233337,Green,Cato Hall S,Cato Hall S,2019-11-13 13:54:30
+527,2406,-2,off,35.303474426,-80.729553223,Green,Robinson Hall S,Robinson Hall S,2019-11-13 13:55:20
+528,2406,-2,off,35.304397583,-80.732673645,Green,Reese East,Reese East,2019-11-13 13:56:42
+529,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 13:56:57
+530,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 13:57:12
+531,2406,3,off,35.301193237,-80.73576355,Green,South Village Deck,South Village Deck,2019-11-13 13:59:42
+532,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 13:59:57
+533,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:00:12
+534,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 14:00:27
+535,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 14:00:42
+536,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:00:57
+537,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 14:01:12
+538,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 14:01:27
+539,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 14:01:42
+540,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 14:01:57
+541,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 14:02:12
+542,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 14:02:27
+543,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 14:02:42
+544,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 14:02:57
+545,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 14:03:12
+546,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 14:03:27
+547,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 14:03:42
+548,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 14:03:57
+549,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 14:04:12
+550,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 14:04:27
+551,2406,22,on,35.301025391,-80.735580444,Green,South Village Deck,South Village Deck,2019-11-13 14:05:50
+552,2406,0,on,35.302150726,-80.732757568,Green,Levine Hall E,Levine Hall E,2019-11-13 14:06:52
+553,2406,-5,off,35.303497314,-80.729507446,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:08:42
+554,2406,-7,on,35.30519104,-80.72832489,Green,Cato Hall N,Cato Hall N,2019-11-13 14:09:50
+555,2406,-7,off,35.307746887,-80.729515076,Green,Fretwell N,Fretwell N,2019-11-13 14:11:50
+556,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:12:05
+557,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 14:12:20
+558,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 14:12:35
+559,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 14:12:50
+560,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 14:13:05
+561,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 14:13:20
+562,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 14:13:35
+563,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 14:13:50
+564,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 14:14:05
+565,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 14:14:20
+566,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 14:14:35
+567,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 14:14:50
+568,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 14:15:05
+569,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 14:15:20
+570,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 14:15:35
+571,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 14:15:50
+572,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 14:16:05
+573,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:16:20
+574,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 14:16:35
+575,2406,4,on,35.30809021,-80.729652405,Green,Fretwell N,Fretwell N,2019-11-13 14:14:40
+576,2406,1,on,35.30909729,-80.729454041,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:15:52
+577,2406,0,off,35.310653687,-80.729400635,Green,Student Health N,Student Health N,2019-11-13 14:16:30
+578,2406,-2,off,35.311660767,-80.730484009,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 14:17:54
+579,2406,5,off,35.313480377,-80.731971741,Green,North Deck,North Deck,2019-11-13 14:18:56
+580,2406,-1,on,35.311870575,-80.733337402,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 14:21:56
+581,2406,2,off,35.310180664,-80.736099243,Green,Belk Hall S,Belk Hall S,2019-11-13 14:23:43
+582,2406,2,off,35.307868958,-80.735046387,Green,Woodward Hall East,Woodward Hall East,2019-11-13 14:25:53
+583,2406,10,off,35.308128357,-80.732803345,Green,Student Union E,Student Union E,2019-11-13 14:27:45
+584,2406,-2,off,35.308097839,-80.73059082,Green,Aux Services East,Aux Services East,2019-11-13 14:29:05
+585,2406,-4,on,35.307041168,-80.729492188,Green,Fretwell S,Fretwell S,2019-11-13 14:30:59
+586,2406,-1,off,35.305141449,-80.728424072,Green,Cato Hall S,Cato Hall S,2019-11-13 14:32:49
+587,2406,-8,on,35.303520203,-80.729545593,Green,Robinson Hall S,Robinson Hall S,2019-11-13 14:33:59
+588,2406,-2,on,35.304454803,-80.732841492,Green,Reese East,Reese East,2019-11-13 14:36:13
+589,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 14:36:28
+590,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 14:36:43
+591,2406,-6,off,35.30116272,-80.735816956,Green,South Village Deck,South Village Deck,2019-11-13 14:39:09
+592,2406,1,on,35.302097321,-80.732872009,Green,Levine Hall E,Levine Hall E,2019-11-13 14:45:03
+593,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:45:18
+594,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 14:45:33
+595,2406,2,off,35.307590485,-80.729362488,Green,Fretwell N,Fretwell N,2019-11-13 14:48:57
+596,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:49:12
+597,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 14:49:27
+598,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 14:49:42
+599,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 14:49:57
+600,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 14:50:12
+601,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 14:50:27
+602,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 14:50:42
+603,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 14:50:57
+604,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 14:51:12
+605,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 14:51:27
+606,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 14:51:42
+607,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 14:51:57
+608,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 14:52:12
+609,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 14:52:27
+610,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 14:52:42
+611,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 14:52:57
+612,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 14:53:12
+613,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:53:27
+614,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 14:53:42
+615,2406,0,on,35.307853699,-80.729347229,Green,Fretwell N,Fretwell N,2019-11-13 14:51:11
+616,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:51:26
+617,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 14:51:41
+618,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 14:51:56
+619,2406,-1,off,35.313476563,-80.731941223,Green,North Deck,North Deck,2019-11-13 14:55:08
+620,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 14:55:23
+621,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 14:55:38
+622,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 14:55:53
+623,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 14:56:08
+624,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 14:56:23
+625,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 14:56:38
+626,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 14:56:53
+627,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 14:57:08
+628,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 14:57:23
+629,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 14:57:38
+630,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 14:57:53
+631,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 14:58:08
+632,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 14:58:23
+633,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 14:58:38
+634,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 14:58:53
+635,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 14:59:08
+636,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 14:59:23
+637,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 14:59:38
+638,2406,2,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 14:59:48
+639,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:00:03
+640,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:00:18
+641,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:00:33
+642,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:00:48
+643,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:01:03
+644,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:01:18
+645,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:01:33
+646,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:01:48
+647,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:02:03
+648,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:02:18
+649,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:02:33
+650,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:02:48
+651,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:03:03
+652,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:03:18
+653,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:03:33
+654,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:03:48
+655,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:04:03
+656,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:04:18
+657,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:04:33
+658,2406,1,on,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:01:28
+659,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:01:43
+660,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:01:58
+661,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:02:13
+662,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:02:28
+663,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:02:43
+664,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:02:58
+665,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:03:13
+666,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:03:28
+667,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:03:43
+668,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:03:58
+669,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:04:13
+670,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:04:28
+671,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:04:43
+672,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:04:58
+673,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:05:13
+674,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:05:28
+675,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:05:43
+676,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:05:58
+677,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:06:13
+678,2406,-2,on,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:02:50
+679,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:03:05
+680,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:03:20
+681,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:03:35
+682,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:03:50
+683,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:04:05
+684,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:04:20
+685,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:04:35
+686,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:04:50
+687,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:05:05
+688,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:05:20
+689,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:05:35
+690,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:05:50
+691,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:06:05
+692,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:06:20
+693,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:06:35
+694,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:06:50
+695,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:07:05
+696,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:07:20
+697,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:07:35
+698,2406,0,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:06:49
+699,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:07:04
+700,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:07:19
+701,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:07:34
+702,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:07:49
+703,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:08:04
+704,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:08:19
+705,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:08:34
+706,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:08:49
+707,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:09:04
+708,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:09:19
+709,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:09:34
+710,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:09:49
+711,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:10:04
+712,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:10:19
+713,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:10:34
+714,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:10:49
+715,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:11:04
+716,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:11:19
+717,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:11:34
+718,2406,-3,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:09:56
+719,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:10:11
+720,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:10:26
+721,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:10:41
+722,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:10:56
+723,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:11:11
+724,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:11:26
+725,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:11:41
+726,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:11:56
+727,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:12:11
+728,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:12:26
+729,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:12:41
+730,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:12:56
+731,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:13:11
+732,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:13:26
+733,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:13:41
+734,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:13:56
+735,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:14:11
+736,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:14:26
+737,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:14:41
+738,2406,-3,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:12:02
+739,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:12:17
+740,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:12:32
+741,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:12:47
+742,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:13:02
+743,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:13:17
+744,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:13:32
+745,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:13:47
+746,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:14:02
+747,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:14:17
+748,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:14:32
+749,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:14:47
+750,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:15:02
+751,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:15:17
+752,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:15:32
+753,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:15:47
+754,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:16:02
+755,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:16:17
+756,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:16:32
+757,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:16:47
+758,2406,-2,on,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:15:36
+759,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:15:51
+760,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:16:06
+761,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:16:21
+762,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:16:36
+763,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:16:51
+764,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:17:06
+765,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:17:21
+766,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:17:36
+767,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:17:51
+768,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:18:06
+769,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:18:21
+770,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:18:36
+771,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:18:51
+772,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:19:06
+773,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:19:21
+774,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:19:36
+775,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:19:51
+776,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:20:06
+777,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:20:21
+778,2406,-2,on,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:19:06
+779,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:19:21
+780,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:19:36
+781,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:19:51
+782,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:20:06
+783,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:20:21
+784,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:20:36
+785,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:20:51
+786,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:21:06
+787,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:21:21
+788,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:21:36
+789,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:21:51
+790,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:22:06
+791,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:22:21
+792,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:22:36
+793,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:22:51
+794,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:23:06
+795,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:23:21
+796,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:23:36
+797,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:23:51
+798,2406,-1,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:21:14
+799,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:21:29
+800,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:21:44
+801,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:21:59
+802,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:22:14
+803,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:22:29
+804,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:22:44
+805,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:22:59
+806,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:23:14
+807,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:23:29
+808,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:23:44
+809,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:23:59
+810,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:24:14
+811,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:24:29
+812,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:24:44
+813,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:24:59
+814,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:25:14
+815,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:25:29
+816,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:25:44
+817,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:25:59
+818,2406,-1,off,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:22:46
+819,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:23:01
+820,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:23:16
+821,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:23:31
+822,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:23:46
+823,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:24:01
+824,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:24:16
+825,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:24:31
+826,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:24:46
+827,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:25:01
+828,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:25:16
+829,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:25:31
+830,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:25:46
+831,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:26:01
+832,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:26:16
+833,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:26:31
+834,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:26:46
+835,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:27:01
+836,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:27:16
+837,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:27:31
+838,2406,0,on,35.311786652,-80.731628418,Green,North Deck,Student Health (Green) W,2019-11-13 15:23:58
+839,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:24:13
+840,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:24:28
+841,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:24:43
+842,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:24:58
+843,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:25:13
+844,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:25:28
+845,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:25:43
+846,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:25:58
+847,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:26:13
+848,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:26:28
+849,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:26:43
+850,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:26:58
+851,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:27:13
+852,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:27:28
+853,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:27:43
+854,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:27:58
+855,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:28:13
+856,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:28:28
+857,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:28:43
+858,2406,-1,off,35.311786652,-80.731628418,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 15:30:58
+859,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:31:13
+860,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:31:28
+861,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:31:43
+862,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:31:58
+863,2406,2,on,35.311786652,-80.731628418,Green,Student Union E,Student Union E,2019-11-13 15:33:34
+864,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:33:49
+865,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:34:04
+866,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 15:34:19
+867,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:34:34
+868,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:34:49
+869,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:35:04
+870,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:35:19
+871,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:35:34
+872,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:35:49
+873,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:36:04
+874,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:36:19
+875,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:36:34
+876,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:36:49
+877,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:37:04
+878,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 15:37:19
+879,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:37:34
+880,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:37:49
+881,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:38:04
+882,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:38:19
+883,2406,2,on,35.311786652,-80.731628418,Green,Student Union E,Student Union E,2019-11-13 15:37:22
+884,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:37:37
+885,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:37:52
+886,2406,0,off,35.311786652,-80.731628418,Green,Cato Hall S,Cato Hall S,2019-11-13 15:41:28
+887,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:41:43
+888,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:41:58
+889,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:42:13
+890,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:42:28
+891,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 15:42:43
+892,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:42:58
+893,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:43:13
+894,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 15:43:28
+895,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 15:43:43
+896,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:43:58
+897,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 15:44:13
+898,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 15:44:28
+899,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 15:44:43
+900,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 15:44:58
+901,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 15:45:13
+902,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 15:45:28
+903,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 15:45:43
+904,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 15:45:58
+905,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 15:46:13
+906,2406,-1,off,35.311786652,-80.731628418,Green,Cato Hall S,Cato Hall S,2019-11-13 15:43:48
+907,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 15:44:03
+908,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 15:44:18
+909,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 15:44:33
+910,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 15:44:48
+911,2406,2,off,35.311786652,-80.731628418,Green,South Village Deck,South Village Deck,2019-11-13 15:47:24
+912,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 15:47:39
+913,2406,0,on,35.303565979,-80.72984314,Green,Robinson Hall N,Robinson Hall N,2019-11-13 15:50:54
+914,2406,3,on,35.305007935,-80.728378296,Green,Cato Hall N,Cato Hall N,2019-11-13 15:52:12
+915,2406,6,off,35.307605743,-80.729255676,Green,Fretwell N,Fretwell N,2019-11-13 15:53:40
+916,2406,-1,off,35.308906555,-80.729164124,Green,Hickory Hall North,Hickory Hall North,2019-11-13 15:55:00
+917,2406,0,off,35.310623169,-80.729187012,Green,Student Health N,Student Health N,2019-11-13 15:55:56
+918,2406,-1,off,35.311447144,-80.730133057,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 15:57:42
+919,2406,3,off,35.312828064,-80.731819153,Green,North Deck,North Deck,2019-11-13 15:58:53
+920,2406,5,on,35.312530518,-80.732933044,Green,North Deck,Wallis Hall W,2019-11-13 16:02:51
+921,2406,-1,on,35.310180664,-80.735786438,Green,Belk Hall S,Belk Hall S,2019-11-13 16:04:51
+922,2406,0,off,35.306846619,-80.735221863,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:06:53
+923,2406,12,off,35.30796051,-80.732826233,Green,Student Union E,Student Union E,2019-11-13 16:09:03
+924,2406,-2,off,35.307933807,-80.730545044,Green,Aux Services East,Aux Services East,2019-11-13 16:10:21
+925,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 16:10:36
+926,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 16:10:51
+927,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 16:11:06
+928,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 16:11:21
+929,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 16:11:36
+930,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 16:11:51
+931,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 16:12:06
+932,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 16:12:21
+933,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 16:12:36
+934,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 16:12:51
+935,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 16:13:06
+936,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 16:13:21
+937,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 16:13:36
+938,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 16:13:51
+939,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 16:14:06
+940,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 16:14:21
+941,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 16:14:36
+942,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:14:51
+943,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 16:15:06
+944,2406,3,on,35.30556488,-80.730911255,Green,Fretwell S,Aux Services East,2019-11-13 16:11:39
+945,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 16:11:54
+946,2406,-3,on,35.30431366,-80.727737427,Green,Cato Hall S,Cato Hall S,2019-11-13 16:12:53
+947,2406,3,off,35.302970886,-80.729804993,Green,Robinson Hall S,Robinson Hall S,2019-11-13 16:14:21
+948,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 16:14:36
+949,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 16:14:51
+950,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 16:15:06
+951,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 16:15:21
+952,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 16:15:36
+953,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 16:15:51
+954,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 16:16:06
+955,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 16:16:21
+956,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 16:16:36
+957,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 16:16:51
+958,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 16:17:06
+959,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 16:17:21
+960,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 16:17:36
+961,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 16:17:51
+962,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:18:06
+963,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 16:18:21
+964,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 16:18:36
+965,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 16:18:51
+966,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 16:19:06
+967,2406,-1,off,35.303676605,-80.735862732,Green,Robinson Hall S,Robinson Hall S,2019-11-13 16:17:15
+968,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 16:17:30
+969,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 16:17:45
+970,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 16:18:00
+971,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 16:18:15
+972,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 16:18:30
+973,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 16:18:45
+974,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 16:19:00
+975,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 16:19:15
+976,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 16:19:30
+977,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 16:19:45
+978,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 16:20:00
+979,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 16:20:15
+980,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 16:20:30
+981,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 16:20:45
+982,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:21:00
+983,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 16:21:15
+984,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 16:21:30
+985,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 16:21:45
+986,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 16:22:00
+987,2406,-18,off,35.300777435,-80.735870361,Green,Robinson Hall S,Robinson Hall S,2019-11-13 16:19:47
+988,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 16:20:02
+989,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 16:20:17
+990,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 16:20:32
+991,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 16:20:47
+992,2406,-2,on,35.301948547,-80.732879639,Green,Levine Hall E,Levine Hall E,2019-11-13 16:21:19
+993,2406,2,on,35.303188324,-80.729644775,Green,Robinson Hall N,Robinson Hall N,2019-11-13 16:22:49
+994,2406,1,on,35.305130005,-80.728256226,Green,Cato Hall N,Cato Hall N,2019-11-13 16:23:47
+995,2406,1,off,35.307353973,-80.729301453,Green,Fretwell N,Fretwell N,2019-11-13 16:25:19
+996,2406,2,on,35.308700562,-80.729385376,Green,Hickory Hall North,Hickory Hall North,2019-11-13 16:26:09
+997,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 16:26:24
+998,2406,-1,off,35.311416626,-80.730392456,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 16:27:51
+999,2406,-2,on,35.312763214,-80.733062744,Green,North Deck,North Deck,2019-11-13 16:32:25
+1000,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 16:32:40
+1001,2406,-1,on,35.310646057,-80.735916138,Green,Belk Hall S,Belk Hall S,2019-11-13 16:34:19
+1002,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:34:34
+1003,2406,6,off,35.308223724,-80.732559204,Green,Belk Hall S,Student Union E,2019-11-13 16:37:17
+1004,2406,-1,off,35.308124542,-80.73046875,Green,Belk Hall S,Aux Services East,2019-11-13 16:38:29
+1005,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 16:38:44
+1006,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 16:38:59
+1007,2406,-2,off,35.303012848,-80.729896545,Green,Robinson Hall S,Robinson Hall S,2019-11-13 16:41:23
+1008,2406,-1,off,35.304206848,-80.732810974,Green,Reese East,Reese East,2019-11-13 16:43:03
+1009,2406,-1,off,35.304412842,-80.734977722,Green,Cone Deck W,Cone Deck W,2019-11-13 16:43:51
+1010,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 16:44:06
+1011,2406,-4,off,35.301120758,-80.735839844,Green,South Village Deck,South Village Deck,2019-11-13 16:46:09
+1012,2406,2,off,35.302078247,-80.732810974,Green,Levine Hall E,Levine Hall E,2019-11-13 16:47:53
+1013,2406,1,on,35.303321838,-80.729530334,Green,Robinson Hall N,Robinson Hall N,2019-11-13 16:49:29
+1014,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 16:49:44
+1015,2406,-2,off,35.307666779,-80.729103088,Green,Fretwell N,Fretwell N,2019-11-13 16:51:25
+1016,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 16:51:40
+1017,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 16:51:55
+1018,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 16:52:10
+1019,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 16:52:25
+1020,2406,-1,on,35.312286377,-80.733413696,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 16:58:30
+1021,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 16:58:45
+1022,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 16:59:00
+1023,2406,5,on,35.30821991,-80.732643127,Green,Student Union E,Student Union E,2019-11-13 17:03:22
+1024,2406,1,off,35.307956696,-80.730514526,Green,Aux Services East,Aux Services East,2019-11-13 17:04:50
+1025,2406,2,off,35.306674957,-80.729507446,Green,Fretwell S,Fretwell S,2019-11-13 17:06:22
+1026,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 17:06:37
+1027,2406,-1,off,35.303379059,-80.7290802,Green,Robinson Hall S,Robinson Hall S,2019-11-13 17:08:48
+1028,2406,1,on,35.304294586,-80.732894897,Green,Reese East,Reese East,2019-11-13 17:10:32
+1029,2406,-2,off,35.304206848,-80.735023499,Green,Cone Deck W,Cone Deck W,2019-11-13 17:11:18
+1030,2406,1,on,35.30266571,-80.737739563,Green,Alumni Way E,Alumni Way E,2019-11-13 17:13:22
+1031,2406,9,off,35.30109787,-80.735801697,Green,South Village Deck,South Village Deck,2019-11-13 17:15:10
+1032,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 17:15:25
+1033,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 17:15:40
+1034,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 17:15:55
+1035,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 17:16:10
+1036,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 17:16:25
+1037,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 17:16:40
+1038,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 17:16:55
+1039,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 17:17:10
+1040,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 17:17:25
+1041,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 17:17:40
+1042,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 17:17:55
+1043,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 17:18:10
+1044,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 17:18:25
+1045,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 17:18:40
+1046,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 17:18:55
+1047,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 17:19:10
+1048,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 17:19:25
+1049,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 17:19:40
+1050,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 17:19:55
+1051,2406,0,on,35.30109787,-80.735794067,Green,South Village Deck,South Village Deck,2019-11-13 17:19:08
+1052,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 17:19:23
+1053,2406,1,on,35.303348541,-80.729438782,Green,Robinson Hall N,Robinson Hall N,2019-11-13 17:21:48
+1054,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 17:22:03
+1055,2406,7,off,35.307632446,-80.729286194,Green,Fretwell N,Fretwell N,2019-11-13 17:25:06
+1056,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 17:25:21
+1057,2406,0,off,35.310714722,-80.72933197,Green,Student Health N,Student Health N,2019-11-13 17:31:02
+1058,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 17:31:17
+1059,2406,0,off,35.313304901,-80.731613159,Green,North Deck,North Deck,2019-11-13 17:34:19
+1060,2406,-6,on,35.312084198,-80.733436584,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 17:37:51
+1061,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 17:38:06
+1062,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 17:38:21
+1063,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 17:38:36
+1064,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 17:38:51
+1065,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 17:39:06
+1066,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 17:39:21
+1067,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 17:39:36
+1068,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 17:39:51
+1069,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 17:40:06
+1070,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 17:40:21
+1071,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 17:40:36
+1072,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 17:40:51
+1073,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 17:41:06
+1074,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 17:41:21
+1075,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 17:41:36
+1076,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 17:41:51
+1077,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 17:42:06
+1078,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 17:42:21
+1079,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 17:42:36
+1080,2406,-1,off,35.312000275,-80.733734131,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 17:39:53
+1081,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 17:40:08
+1082,2406,-1,on,35.307834625,-80.734786987,Green,Woodward Hall East,Woodward Hall East,2019-11-13 17:42:45
+1083,2406,6,off,35.307991028,-80.732582092,Green,Student Union E,Student Union E,2019-11-13 17:45:13
+1084,2406,-2,off,35.308040619,-80.730476379,Green,Aux Services East,Aux Services East,2019-11-13 17:46:47
+1085,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 17:47:02
+1086,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 17:47:17
+1087,2406,-4,off,35.303531647,-80.729484558,Green,Robinson Hall S,Robinson Hall S,2019-11-13 17:49:49
+1088,2406,-2,off,35.304298401,-80.732818604,Green,Reese East,Reese East,2019-11-13 17:51:29
+1089,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 17:51:44
+1090,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 17:51:59
+1091,2406,1,off,35.301074982,-80.735572815,Green,South Village Deck,South Village Deck,2019-11-13 17:54:25
+1092,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 17:54:40
+1093,2406,-1,off,35.303337097,-80.729415894,Green,Robinson Hall N,Robinson Hall N,2019-11-13 17:56:47
+1094,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 17:57:02
+1095,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 17:57:17
+1096,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 17:57:32
+1097,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 17:57:47
+1098,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 17:58:02
+1099,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 17:58:17
+1100,2406,3,on,35.313930511,-80.734390259,Green,North Deck,Wallis Hall W,2019-11-13 18:04:53
+1101,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 18:05:08
+1102,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 18:05:23
+1103,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-13 18:05:38
+1104,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 18:05:53
+1105,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 18:06:08
+1106,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 18:06:23
+1107,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 18:06:38
+1108,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 18:06:53
+1109,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 18:07:08
+1110,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 18:07:23
+1111,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 18:07:38
+1112,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 18:07:53
+1113,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 18:08:08
+1114,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 18:08:23
+1115,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 18:08:38
+1116,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 18:08:53
+1117,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 18:09:08
+1118,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 18:09:23
+1119,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 18:09:38
+1120,2406,-1,off,35.312038422,-80.733474731,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 18:12:48
+1121,2406,-1,off,35.310031891,-80.736244202,Green,Belk Hall S,Belk Hall S,2019-11-13 18:14:04
+1122,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 18:14:19
+1123,2406,3,off,35.307998657,-80.732826233,Green,Student Union E,Student Union E,2019-11-13 18:16:10
+1124,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 18:16:25
+1125,2406,-1,off,35.306503296,-80.729644775,Green,Fretwell S,Fretwell S,2019-11-13 18:19:04
+1126,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 18:19:19
+1127,2406,-1,off,35.303375244,-80.729652405,Green,Robinson Hall S,Robinson Hall S,2019-11-13 18:21:12
+1128,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 18:21:27
+1129,2406,-1,off,35.30412674,-80.735076904,Green,Cone Deck W,Cone Deck W,2019-11-13 18:23:50
+1130,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 18:24:05
+1131,2406,-1,on,35.301052094,-80.735900879,Green,South Village Deck,South Village Deck,2019-11-13 18:26:20
+1132,2406,2,on,35.302078247,-80.732833862,Green,Levine Hall E,Levine Hall E,2019-11-13 18:28:06
+1133,2406,2,on,35.303321838,-80.729515076,Green,Robinson Hall N,Robinson Hall N,2019-11-13 18:29:40
+1134,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 18:29:55
+1135,2406,-1,on,35.307331085,-80.729530334,Green,Fretwell N,Fretwell N,2019-11-13 18:31:36
+1136,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 18:31:51
+1137,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 18:32:06
+1138,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 18:32:21
+1139,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 18:32:36
+1140,2406,0,off,35.312038422,-80.733299255,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 18:38:32
+1141,2406,-2,off,35.310203552,-80.736068726,Green,Belk Hall S,Belk Hall S,2019-11-13 18:41:50
+1142,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 18:42:05
+1143,2406,14,on,35.307952881,-80.732589722,Green,Student Union E,Student Union E,2019-11-13 18:44:28
+1144,2406,3,on,35.308036804,-80.730308533,Green,Aux Services East,Aux Services East,2019-11-13 18:46:02
+1145,2406,5,off,35.307155609,-80.729225159,Green,Fretwell S,Fretwell S,2019-11-13 18:47:56
+1146,2406,-2,off,35.304988861,-80.728431702,Green,Cato Hall S,Cato Hall S,2019-11-13 18:50:05
+1147,2406,-10,off,35.303348541,-80.729690552,Green,Robinson Hall S,Robinson Hall S,2019-11-13 18:51:07
+1148,2406,1,on,35.304164886,-80.732971191,Green,Reese East,Reese East,2019-11-13 18:53:09
+1149,2406,-2,off,35.304325104,-80.735137939,Green,Cone Deck W,Cone Deck W,2019-11-13 18:54:03
+1150,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 18:54:18
+1151,2406,-11,off,35.301261902,-80.734642029,Green,South Village Deck,South Village Deck,2019-11-13 18:57:11
+1152,2406,-3,off,35.30210495,-80.732704163,Green,Levine Hall E,Levine Hall E,2019-11-13 18:58:45
+1153,2406,2,on,35.303352356,-80.729446411,Green,Robinson Hall N,Robinson Hall N,2019-11-13 19:00:37
+1154,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 19:00:52
+1155,2406,2,on,35.307868958,-80.728507996,Green,Fretwell N,Fretwell N,2019-11-13 19:03:15
+1156,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 19:03:30
+1157,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 19:03:45
+1158,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 19:04:00
+1159,2406,-4,off,35.313220978,-80.732040405,Green,North Deck,North Deck,2019-11-13 19:06:41
+1160,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 19:06:56
+1161,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 19:07:11
+1162,2406,-1,off,35.307880402,-80.734680176,Green,Woodward Hall East,Woodward Hall East,2019-11-13 19:12:39
+1163,2406,1,on,35.308094025,-80.732521057,Green,Student Union E,Student Union E,2019-11-13 19:14:29
+1164,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 19:14:44
+1165,2406,5,on,35.306884766,-80.72959137,Green,Fretwell S,Fretwell S,2019-11-13 19:17:07
+1166,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 19:17:22
+1167,2406,-1,off,35.303535461,-80.729354858,Green,Robinson Hall S,Robinson Hall S,2019-11-13 19:19:13
+1168,2406,-2,on,35.304359436,-80.732666016,Green,Reese East,Reese East,2019-11-13 19:20:59
+1169,2406,-2,off,35.304168701,-80.734840393,Green,Cone Deck W,Cone Deck W,2019-11-13 19:22:01
+1170,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 19:22:16
+1171,2406,0,on,35.301113129,-80.735656738,Green,South Village Deck,South Village Deck,2019-11-13 19:24:31
+1172,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 19:24:46
+1173,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 19:25:01
+1174,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 19:25:16
+1175,2406,3,on,35.307506561,-80.729133606,Green,Fretwell N,Fretwell N,2019-11-13 19:29:18
+1176,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 19:29:33
+1177,2406,1,on,35.310558319,-80.729171753,Green,Student Health N,Student Health N,2019-11-13 19:30:42
+1178,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 19:30:57
+1179,2406,-1,off,35.313838959,-80.731880188,Green,North Deck,North Deck,2019-11-13 19:32:26
+1180,2406,-3,off,35.311904907,-80.733261108,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 19:35:40
+1181,2406,-1,off,35.310184479,-80.735916138,Green,Belk Hall S,Belk Hall S,2019-11-13 19:37:04
+1182,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 19:37:19
+1183,2406,4,on,35.308113098,-80.732704163,Green,Student Union E,Student Union E,2019-11-13 19:39:20
+1184,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 19:39:35
+1185,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 19:39:50
+1186,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 19:40:05
+1187,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 19:40:20
+1188,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 19:40:35
+1189,2406,-3,off,35.304180145,-80.735191345,Green,Cone Deck W,Cone Deck W,2019-11-13 19:45:28
+1190,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 19:45:43
+1191,2406,10,off,35.301177979,-80.735794067,Green,South Village Deck,South Village Deck,2019-11-13 19:48:18
+1192,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 19:48:33
+1193,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 19:48:48
+1194,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 19:49:03
+1195,2406,3,on,35.307537079,-80.729370117,Green,Fretwell N,Fretwell N,2019-11-13 19:54:08
+1196,2406,-1,off,35.309005737,-80.729217529,Green,Hickory Hall North,Hickory Hall North,2019-11-13 19:55:26
+1197,2406,-2,off,35.310691833,-80.729232788,Green,Student Health N,Student Health N,2019-11-13 19:56:06
+1198,2406,-1,off,35.311626434,-80.73034668,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 19:57:14
+1199,2406,-3,off,35.313919067,-80.731544495,Green,North Deck,North Deck,2019-11-13 19:58:44
+1200,2406,1,on,35.311897278,-80.733291626,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 20:00:42
+1201,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 20:00:57
+1202,2406,1,on,35.307933807,-80.734611511,Green,Woodward Hall East,Woodward Hall East,2019-11-13 20:03:34
+1203,2406,7,off,35.308086395,-80.732536316,Green,Student Union E,Student Union E,2019-11-13 20:04:45
+1204,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 20:05:00
+1205,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 20:05:15
+1206,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 20:05:30
+1207,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 20:05:45
+1208,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 20:06:00
+1209,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 20:06:15
+1210,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 20:06:30
+1211,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 20:06:45
+1212,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 20:07:00
+1213,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 20:07:15
+1214,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 20:07:30
+1215,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 20:07:45
+1216,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 20:08:00
+1217,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 20:08:15
+1218,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 20:08:30
+1219,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 20:08:45
+1220,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 20:09:00
+1221,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 20:09:15
+1222,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 20:09:30
+1223,2406,3,off,35.308086395,-80.732536316,Green,Student Union E,Student Union E,2019-11-13 20:07:13
+1224,2406,-3,off,35.308101654,-80.730026245,Green,Aux Services East,Aux Services East,2019-11-13 20:09:53
+1225,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 20:10:08
+1226,2406,-2,off,35.305038452,-80.728256226,Green,Cato Hall S,Cato Hall S,2019-11-13 20:12:03
+1227,2406,-1,off,35.303443909,-80.729576111,Green,Robinson Hall S,Robinson Hall S,2019-11-13 20:12:57
+1228,2406,5,on,35.304428101,-80.732810974,Green,Reese East,Reese East,2019-11-13 20:15:11
+1229,2406,-3,off,35.304302216,-80.734832764,Green,Cone Deck W,Cone Deck W,2019-11-13 20:16:35
+1230,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 20:16:50
+1231,2406,-7,off,35.301124573,-80.735679626,Green,South Village Deck,South Village Deck,2019-11-13 20:19:47
+1232,2406,1,on,35.302108765,-80.732719421,Green,Levine Hall E,Levine Hall E,2019-11-13 20:21:31
+1233,2406,-1,off,35.303421021,-80.729446411,Green,Robinson Hall N,Robinson Hall N,2019-11-13 20:23:27
+1234,2406,1,on,35.305038452,-80.728233337,Green,Cato Hall N,Cato Hall N,2019-11-13 20:24:36
+1235,2406,4,on,35.307636261,-80.729202271,Green,Fretwell N,Fretwell N,2019-11-13 20:26:34
+1236,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 20:26:49
+1237,2406,-3,off,35.31079483,-80.729240417,Green,Student Health N,Student Health N,2019-11-13 20:28:02
+1238,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 20:28:17
+1239,2406,-2,off,35.313468933,-80.731903076,Green,North Deck,North Deck,2019-11-13 20:29:34
+1240,2406,-6,on,35.312019348,-80.733398438,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 20:32:56
+1241,2406,-1,off,35.310276031,-80.736000061,Green,Belk Hall S,Belk Hall S,2019-11-13 20:34:46
+1242,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 20:35:01
+1243,2406,3,on,35.308124542,-80.732933044,Green,Student Union E,Student Union E,2019-11-13 20:37:57
+1244,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 20:38:12
+1245,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 20:38:27
+1246,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 20:38:42
+1247,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 20:38:57
+1248,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 20:39:12
+1249,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 20:39:27
+1250,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 20:39:42
+1251,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-13 20:39:57
+1252,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 20:40:12
+1253,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 20:40:27
+1254,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 20:40:42
+1255,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 20:40:57
+1256,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 20:41:12
+1257,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 20:41:27
+1258,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 20:41:42
+1259,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 20:41:57
+1260,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 20:42:12
+1261,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 20:42:27
+1262,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 20:42:42
+1263,2406,2,on,35.308158875,-80.732780457,Green,Student Union E,Student Union E,2019-11-13 20:40:31
+1264,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 20:40:46
+1265,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 20:41:01
+1266,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 20:41:16
+1267,2406,-1,off,35.303466797,-80.729553223,Green,Robinson Hall S,Robinson Hall S,2019-11-13 20:45:41
+1268,2406,-3,off,35.304389954,-80.732780457,Green,Reese East,Reese East,2019-11-13 20:47:13
+1269,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 20:47:28
+1270,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 20:47:43
+1271,2406,3,off,35.301086426,-80.735694885,Green,South Village Deck,South Village Deck,2019-11-13 20:49:59
+1272,2406,3,on,35.30210495,-80.732704163,Green,Levine Hall E,Levine Hall E,2019-11-13 20:51:31
+1273,2406,0,on,35.303344727,-80.72946167,Green,Robinson Hall N,Robinson Hall N,2019-11-13 20:52:43
+1274,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 20:52:58
+1275,2406,1,on,35.307571411,-80.729301453,Green,Fretwell N,Fretwell N,2019-11-13 20:55:07
+1276,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 20:55:22
+1277,2406,-3,off,35.310688019,-80.729316711,Green,Student Health N,Student Health N,2019-11-13 20:56:11
+1278,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 20:56:26
+1279,2406,-1,off,35.313610077,-80.731697083,Green,North Deck,North Deck,2019-11-13 20:57:45
+1280,2406,3,off,35.312046051,-80.733360291,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 21:00:39
+1281,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 21:00:54
+1282,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 21:01:09
+1283,2406,8,off,35.308101654,-80.732666016,Green,Student Union E,Student Union E,2019-11-13 21:04:49
+1284,2406,-1,off,35.308101654,-80.730384827,Green,Aux Services East,Aux Services East,2019-11-13 21:06:01
+1285,2406,-3,off,35.306934357,-80.729484558,Green,Fretwell S,Fretwell S,2019-11-13 21:07:09
+1286,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 21:07:24
+1287,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 21:07:39
+1288,2406,-1,off,35.304454803,-80.732765198,Green,Reese East,Reese East,2019-11-13 21:10:47
+1289,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 21:11:02
+1290,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 21:11:17
+1291,2406,-10,off,35.301029205,-80.735725403,Green,South Village Deck,South Village Deck,2019-11-13 21:13:45
+1292,2406,-1,off,35.302150726,-80.732696533,Green,Levine Hall E,Levine Hall E,2019-11-13 21:15:15
+1293,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 21:15:30
+1294,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 21:15:45
+1295,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 21:16:00
+1296,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 21:16:15
+1297,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 21:16:30
+1298,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 21:16:45
+1299,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 21:17:00
+1300,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-13 21:17:15
+1301,2406,2,on,35.310161591,-80.736045837,Green,Belk Hall S,Belk Hall S,2019-11-13 21:28:48
+1302,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 21:29:03
+1303,2406,5,on,35.308074951,-80.732749939,Green,Student Union E,Student Union E,2019-11-13 21:31:02
+1304,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 21:31:17
+1305,2406,-1,off,35.307029724,-80.729553223,Green,Fretwell S,Fretwell S,2019-11-13 21:33:18
+1306,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 21:33:33
+1307,2406,1,on,35.303703308,-80.729545593,Green,Robinson Hall S,Robinson Hall S,2019-11-13 21:35:16
+1308,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 21:35:31
+1309,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 21:35:46
+1310,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 21:36:01
+1311,2406,-6,off,35.30109787,-80.735694885,Green,South Village Deck,South Village Deck,2019-11-13 21:39:34
+1312,2406,3,on,35.301979065,-80.732803345,Green,Levine Hall E,Levine Hall E,2019-11-13 21:41:18
+1313,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 21:41:33
+1314,2406,-2,off,35.305099487,-80.728256226,Green,Cato Hall N,Cato Hall N,2019-11-13 21:43:24
+1315,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 21:43:39
+1316,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 21:43:54
+1317,2406,-1,off,35.31073761,-80.729324341,Green,Student Health N,Student Health N,2019-11-13 21:46:00
+1318,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 21:46:15
+1319,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 21:46:30
+1320,2406,-1,off,35.311973572,-80.733467102,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 21:52:08
+1321,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 21:52:23
+1322,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 21:52:38
+1323,2406,2,on,35.30809021,-80.732719421,Green,Student Union E,Student Union E,2019-11-13 21:56:53
+1324,2406,1,on,35.308074951,-80.730377197,Green,Aux Services East,Aux Services East,2019-11-13 21:57:59
+1325,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 21:58:14
+1326,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 21:58:29
+1327,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 21:58:44
+1328,2406,2,on,35.304382324,-80.732749939,Green,Reese East,Reese East,2019-11-13 22:03:17
+1329,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 22:03:32
+1330,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 22:03:47
+1331,2406,-3,off,35.301086426,-80.735702515,Green,South Village Deck,South Village Deck,2019-11-13 22:06:31
+1332,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 22:06:46
+1333,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 22:07:01
+1334,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 22:07:16
+1335,2406,1,on,35.307617188,-80.729301453,Green,Fretwell N,Fretwell N,2019-11-13 22:10:57
+1336,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 22:11:12
+1337,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 22:11:27
+1338,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 22:11:42
+1339,2406,-1,off,35.31362915,-80.731941223,Green,North Deck,North Deck,2019-11-13 22:15:19
+1340,2406,2,off,35.311962128,-80.733398438,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 22:21:13
+1341,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 22:21:28
+1342,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 22:21:43
+1343,2406,3,on,35.308052063,-80.732933044,Green,Student Union E,Student Union E,2019-11-13 22:25:41
+1344,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 22:25:56
+1345,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 22:26:11
+1346,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 22:26:26
+1347,2406,-2,off,35.3034935,-80.729438782,Green,Robinson Hall S,Robinson Hall S,2019-11-13 22:30:33
+1348,2406,-4,off,35.304309845,-80.733016968,Green,Reese East,Reese East,2019-11-13 22:32:28
+1349,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 22:32:43
+1350,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 22:32:58
+1351,2406,-1,off,35.301063538,-80.735671997,Green,South Village Deck,South Village Deck,2019-11-13 22:37:02
+1352,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 22:37:17
+1353,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 22:37:32
+1354,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 22:37:47
+1355,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 22:38:02
+1356,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 22:38:17
+1357,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-13 22:38:32
+1358,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 22:38:47
+1359,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 22:39:02
+1360,2406,0,on,35.311882019,-80.733222961,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 22:48:12
+1361,2406,1,on,35.310100555,-80.735855103,Green,Belk Hall S,Belk Hall S,2019-11-13 22:58:22
+1362,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 22:58:37
+1363,2406,2,on,35.308063507,-80.732772827,Green,Student Union E,Student Union E,2019-11-13 23:01:00
+1364,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 23:01:15
+1365,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 23:01:30
+1366,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 23:01:45
+1367,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 23:02:00
+1368,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 23:02:15
+1369,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 23:02:30
+1370,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 23:02:45
+1371,2406,-3,off,35.301170349,-80.735916138,Green,South Village Deck,South Village Deck,2019-11-13 23:11:43
+1372,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 23:11:58
+1373,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 23:12:13
+1374,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 23:12:28
+1375,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 23:12:43
+1376,2406,1,on,35.308742523,-80.729026794,Green,Hickory Hall North,Hickory Hall North,2019-11-13 23:18:11
+1377,2406,-1,off,35.310619354,-80.728965759,Green,Student Health N,Student Health N,2019-11-13 23:19:01
+1378,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 23:19:16
+1379,2406,0,on,35.313648224,-80.73298645,Green,North Deck,North Deck,2019-11-13 23:20:47
+1380,2406,0,on,35.311626434,-80.732818604,Green,North Deck,Wallis Hall W,2019-11-13 23:24:55
+1381,2406,-2,off,35.309883118,-80.735626221,Green,Belk Hall S,Belk Hall S,2019-11-13 23:26:27
+1382,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 23:26:42
+1383,2406,3,on,35.307949066,-80.732711792,Green,Student Union E,Student Union E,2019-11-13 23:29:01
+1384,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 23:29:16
+1385,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 23:29:31
+1386,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 23:29:46
+1387,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-13 23:30:01
+1388,2406,2,on,35.304218292,-80.732284546,Green,Reese East,Reese East,2019-11-13 23:35:59
+1389,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-13 23:36:14
+1390,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-13 23:36:29
+1391,2406,-6,off,35.301082611,-80.73563385,Green,South Village Deck,South Village Deck,2019-11-13 23:39:17
+1392,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-13 23:39:32
+1393,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-13 23:39:47
+1394,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-13 23:40:02
+1395,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-13 23:40:17
+1396,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-13 23:40:32
+1397,2406,1,on,35.310638428,-80.729255676,Green,Student Health N,Student Health N,2019-11-13 23:45:33
+1398,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-13 23:45:48
+1399,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-13 23:46:03
+1400,2406,2,on,35.312007904,-80.73336792,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-13 23:51:08
+1401,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-13 23:51:23
+1402,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-13 23:51:38
+1403,2406,0,off,35.308116913,-80.733016968,Green,Student Union E,Student Union E,2019-11-13 23:54:36
+1404,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-13 23:54:51
+1405,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-13 23:55:06
+1406,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-13 23:55:21
+1407,2406,-1,off,35.303565979,-80.729621887,Green,Robinson Hall S,Robinson Hall S,2019-11-13 23:58:36
+1408,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-13 23:58:51
+1409,2406,2,on,35.305107117,-80.734672546,Green,Reese East,Cone Deck W,2019-11-14 00:00:48
+1410,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:01:03
+1411,2406,-1,off,35.301177979,-80.735618591,Green,South Village Deck,South Village Deck,2019-11-14 00:04:16
+1412,2406,1,on,35.302131653,-80.73261261,Green,Levine Hall E,Levine Hall E,2019-11-14 00:06:16
+1413,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:06:31
+1414,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:06:46
+1415,2406,-3,off,35.307262421,-80.729919434,Green,Fretwell N,Fretwell N,2019-11-14 00:10:08
+1416,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:10:23
+1417,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:10:38
+1418,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:10:53
+1419,2406,1,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:17:16
+1420,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:17:31
+1421,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:17:46
+1422,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:18:01
+1423,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:18:16
+1424,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:18:31
+1425,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:18:46
+1426,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:19:01
+1427,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:19:16
+1428,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:19:31
+1429,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:19:46
+1430,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:20:01
+1431,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:20:16
+1432,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:20:31
+1433,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:20:46
+1434,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:21:01
+1435,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:21:16
+1436,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:21:31
+1437,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:21:46
+1438,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:22:01
+1439,2406,2,on,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:24:03
+1440,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:24:18
+1441,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:24:33
+1442,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:24:48
+1443,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:25:03
+1444,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:25:18
+1445,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:25:33
+1446,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:25:48
+1447,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:26:03
+1448,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:26:18
+1449,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:26:33
+1450,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:26:48
+1451,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:27:03
+1452,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:27:18
+1453,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:27:33
+1454,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:27:48
+1455,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:28:03
+1456,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:28:18
+1457,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:28:33
+1458,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:28:48
+1459,2406,1,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:29:41
+1460,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:29:56
+1461,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:30:11
+1462,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:30:26
+1463,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:30:41
+1464,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:30:56
+1465,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:31:11
+1466,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:31:26
+1467,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:31:41
+1468,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:31:56
+1469,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:32:11
+1470,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:32:26
+1471,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:32:41
+1472,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:32:56
+1473,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:33:11
+1474,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:33:26
+1475,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:33:41
+1476,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:33:56
+1477,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:34:11
+1478,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:34:26
+1479,2406,1,on,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:32:47
+1480,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:33:02
+1481,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:33:17
+1482,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:33:32
+1483,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:33:47
+1484,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:34:02
+1485,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:34:17
+1486,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:34:32
+1487,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:34:47
+1488,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:35:02
+1489,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:35:17
+1490,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:35:32
+1491,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:35:47
+1492,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:36:02
+1493,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:36:17
+1494,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:36:32
+1495,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:36:47
+1496,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:37:02
+1497,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:37:17
+1498,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:37:32
+1499,2406,-3,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:36:11
+1500,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:36:26
+1501,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:36:41
+1502,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:36:56
+1503,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:37:11
+1504,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:37:26
+1505,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:37:41
+1506,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:37:56
+1507,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:38:11
+1508,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:38:26
+1509,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:38:41
+1510,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:38:56
+1511,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:39:11
+1512,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:39:26
+1513,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:39:41
+1514,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:39:56
+1515,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:40:11
+1516,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:40:26
+1517,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:40:41
+1518,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:40:56
+1519,2406,0,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:38:13
+1520,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:38:28
+1521,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:38:43
+1522,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:38:58
+1523,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:39:13
+1524,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:39:28
+1525,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:39:43
+1526,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:39:58
+1527,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:40:13
+1528,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:40:28
+1529,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:40:43
+1530,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:40:58
+1531,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:41:13
+1532,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:41:28
+1533,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:41:43
+1534,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:41:58
+1535,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:42:13
+1536,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:42:28
+1537,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:42:43
+1538,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:42:58
+1539,2406,2,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:49:45
+1540,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:50:00
+1541,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:50:15
+1542,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:50:30
+1543,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:50:45
+1544,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 00:51:00
+1545,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 00:51:15
+1546,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 00:51:30
+1547,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 00:51:45
+1548,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 00:52:00
+1549,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 00:52:15
+1550,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 00:52:30
+1551,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 00:52:45
+1552,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 00:53:00
+1553,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 00:53:15
+1554,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 00:53:30
+1555,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 00:53:45
+1556,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 00:54:00
+1557,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 00:54:15
+1558,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 00:54:30
+1559,2406,-1,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 00:58:55
+1560,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 00:59:10
+1561,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 00:59:25
+1562,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 00:59:40
+1563,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 00:59:55
+1564,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:00:10
+1565,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:00:25
+1566,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:00:40
+1567,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:00:55
+1568,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 01:01:10
+1569,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 01:01:25
+1570,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 01:01:40
+1571,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 01:01:55
+1572,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 01:02:10
+1573,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 01:02:25
+1574,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 01:02:40
+1575,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 01:02:55
+1576,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 01:03:10
+1577,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 01:03:25
+1578,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 01:03:40
+1579,2406,1,off,35.312587738,-80.732460022,Green,North Deck,North Deck,2019-11-14 01:04:02
+1580,2406,0,on,35.312,-80.7335,Green,Wallis Hall W,Wallis Hall W,2019-11-14 01:04:17
+1581,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 01:04:32
+1582,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 01:04:47
+1583,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 01:05:02
+1584,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:05:17
+1585,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:05:32
+1586,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:05:47
+1587,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:06:02
+1588,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 01:06:17
+1589,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 01:06:32
+1590,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 01:06:47
+1591,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 01:07:02
+1592,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 01:07:17
+1593,2406,0,on,35.303283691,-80.729484558,Green,North Deck,Robinson Hall N,2019-11-14 01:07:16
+1594,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 01:07:31
+1595,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 01:07:46
+1596,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 01:08:01
+1597,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 01:08:16
+1598,2406,-1,off,35.311607361,-80.730453491,Green,North Deck,Student Health (Green) W,2019-11-14 01:13:10
+1599,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-14 01:13:25
+1600,2406,-1,on,35.311878204,-80.733505249,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-14 01:14:34
+1601,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 01:14:49
+1602,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 01:15:04
+1603,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 01:15:19
+1604,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:15:34
+1605,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:15:49
+1606,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:16:04
+1607,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:16:19
+1608,2406,1,on,35.304477692,-80.732650757,Green,Reese East,Reese East,2019-11-14 01:27:20
+1609,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 01:27:35
+1610,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 01:27:50
+1611,2406,2,on,35.301143646,-80.735794067,Green,South Village Deck,South Village Deck,2019-11-14 01:30:36
+1612,2406,-1,off,35.302131653,-80.732749939,Green,Levine Hall E,Levine Hall E,2019-11-14 01:32:06
+1613,2406,1,on,35.30342865,-80.729484558,Green,Robinson Hall N,Robinson Hall N,2019-11-14 01:34:04
+1614,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 01:34:19
+1615,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 01:34:34
+1616,2406,-1,off,35.309131622,-80.729270935,Green,Hickory Hall North,Hickory Hall North,2019-11-14 01:37:27
+1617,2406,-2,off,35.310813904,-80.729187012,Green,Student Health N,Student Health N,2019-11-14 01:38:21
+1618,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 01:38:36
+1619,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-14 01:38:51
+1620,2406,1,off,35.311935425,-80.733375549,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-14 01:42:39
+1621,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 01:42:54
+1622,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 01:43:09
+1623,2406,0,on,35.30809,-80.73272,Green,Student Union E,Student Union E,2019-11-14 01:43:24
+1624,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:43:39
+1625,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:43:54
+1626,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:44:09
+1627,2406,0,on,35.30352,-80.72948,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:44:24
+1628,2406,0,on,35.3042998,-80.7326206,Green,Reese East,Reese East,2019-11-14 01:44:39
+1629,2406,0,on,35.30432,-80.735009,Green,Cone Deck W,Cone Deck W,2019-11-14 01:44:54
+1630,2406,0,on,35.3026439,-80.7377572,Green,Alumni Way E,Alumni Way E,2019-11-14 01:45:09
+1631,2406,0,on,35.30113,-80.7357,Green,South Village Deck,South Village Deck,2019-11-14 01:45:24
+1632,2406,0,on,35.3021,-80.7327,Green,Levine Hall E,Levine Hall E,2019-11-14 01:45:39
+1633,2406,0,on,35.30337,-80.72945,Green,Robinson Hall N,Robinson Hall N,2019-11-14 01:45:54
+1634,2406,0,on,35.3050917,-80.7281563,Green,Cato Hall N,Cato Hall N,2019-11-14 01:46:09
+1635,2406,0,on,35.3075872,-80.7292483,Green,Fretwell N,Fretwell N,2019-11-14 01:46:24
+1636,2406,0,on,35.308998108,-80.729255676,Green,Hickory Hall North,Hickory Hall North,2019-11-14 01:46:39
+1637,2406,0,on,35.3107,-80.7293,Green,Student Health N,Student Health N,2019-11-14 01:46:54
+1638,2406,0,on,35.31166,-80.7304,Green,Student Health (Green) W,Student Health (Green) W,2019-11-14 01:47:09
+1639,2406,0,on,35.3134338,-80.7319048,Green,North Deck,North Deck,2019-11-14 01:47:24
+1640,2406,3,on,35.311935425,-80.733322144,Green,Wallis Hall W/Light Rail,Wallis Hall W,2019-11-14 01:48:11
+1641,2406,0,on,35.31025,-80.73619,Green,Belk Hall S,Belk Hall S,2019-11-14 01:48:26
+1642,2406,0,on,35.3079,-80.7348,Green,Woodward Hall East,Woodward Hall East,2019-11-14 01:48:41
+1643,2406,-1,off,35.308029175,-80.732780457,Green,Student Union E,Student Union E,2019-11-14 01:51:39
+1644,2406,0,on,35.3080314,-80.7304667,Green,Aux Services East,Aux Services East,2019-11-14 01:51:54
+1645,2406,0,on,35.307,-80.7295,Green,Fretwell S,Fretwell S,2019-11-14 01:52:09
+1646,2406,0,on,35.305107,-80.7283145,Green,Cato Hall S,Cato Hall S,2019-11-14 01:52:24
+1647,2406,2,off,35.303005219,-80.731941223,Green,Robinson Hall S,Robinson Hall S,2019-11-14 01:57:47

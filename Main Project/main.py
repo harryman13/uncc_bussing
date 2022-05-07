@@ -125,7 +125,7 @@ class App(customtkinter.CTk):
         self.button_3.grid(pady=10, padx=20, row=3, column=0)
 
         self.button_4= customtkinter.CTkButton(master=self.frame_left,
-                                                text="Silver Route",
+                                                text="Silver Route(Not Implemented)",
                                                 command=self.silverToggle,
                                                 width=120, height=30,
                                                 border_width=0,
@@ -133,7 +133,7 @@ class App(customtkinter.CTk):
         self.button_4.grid(pady=10, padx=20, row=4, column=0)
 
         self.button_5 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Gold Route",
+                                                text="Gold Route(Not Implemented)",
                                                 command=self.silverToggle,
                                                 width=120, height=30,
                                                 border_width=0,
@@ -141,7 +141,7 @@ class App(customtkinter.CTk):
         self.button_5.grid(pady=10, padx=20, row=5, column=0)
 
         self.button_6 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Green Route",
+                                                text="Green Route(Not Implemented)",
                                                 command=self.map_widget.insert_stop,
                                                 width=120, height=30,
                                                 border_width=0,
@@ -149,7 +149,7 @@ class App(customtkinter.CTk):
         self.button_6.grid(pady=10, padx=20, row=6, column=0)
 
         self.button_7 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Settings",
+                                                text="Settings(Not Implemented)",
                                                 command=self.map_widget.toggle_mode,
                                                 width=120, height=30,
                                                 border_width=0,
@@ -157,7 +157,7 @@ class App(customtkinter.CTk):
         self.button_7.grid(pady=10, padx=20, row=7, column=0)
 
         self.button_8 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Dashboard",
+                                                text="Dashboard(Not Implemented)",
                                                 command=self.map_widget.toggle_mode,
                                                 width=120, height=30,
                                                 border_width=0,
@@ -184,8 +184,8 @@ class App(customtkinter.CTk):
                 # print(self.img_list[i])
                 image1 = ("Graphs/" + df.iloc[i].Stop + "_Embark.png")
                 image2 = ("Graphs/" + df.iloc[i].Stop + "_Disembark.png")
-                print(image1)
-                print(image2)
+                #print(image1)
+                #print(image2)
                 self.img_list.append(
                     [ImageTk.PhotoImage(Image.open(image1).resize((500, 375))),
                      ImageTk.PhotoImage(Image.open(image2).resize((500, 375)))])
@@ -204,16 +204,14 @@ class App(customtkinter.CTk):
 
         file1 = pd.read_csv('Files/file1Dataframe.csv', index_col=0)
         file1 = gr.fix(file1)
-        file1.to_csv('Files/file1New.csv')
         self.uniqueBuses = file1.Bus.unique()
         self.bus = []
         for i in self.uniqueBuses:
-            print(i)
             temp = file1.query("Bus == "+str(i))
             temp = temp.reset_index()
             temp = temp.drop(columns="index")
             temp = gr.dt(temp)
-            self.bus.append(b.Bus(2407, 0, temp, self.map_widget))
+            self.bus.append(b.Bus(i, 0, temp, self.map_widget))
 
         for i in self.bus:
             i.flatten()

@@ -24,7 +24,6 @@ class Bus(CanvasPositionMarker):
         return (self.route.iloc[index].at["Longitude"], self.route.iloc[index].at["Latitude"])
 
     def flatten(self):
-        self.route.to_csv("Files/2407_b.csv")
         x = 0
         y = len(self.route)-1
         ind = 0
@@ -55,9 +54,7 @@ class Bus(CanvasPositionMarker):
             x = x + 1
             ind = ind + 1
 
-        #print("route:", self.route)
         print("Done")
-        self.route.to_csv("Files/2407.csv")
 
     def update(self, time, dataframe):
         if time >= dataframe.loc[self.currentLine + 1].at["DateTime"]:

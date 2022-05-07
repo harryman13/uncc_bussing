@@ -134,7 +134,7 @@ def fillinGraph(dataframe, route):
             #dataframe = pd.concat([dataframe, dataline], ignore_index= True)
             dataframe.loc[x-.5] = dataline
             dataframe = dataframe.sort_index().reset_index(drop=True)
-            dataframe.to_csv("Files/ExpandedDataFrame.csv")
+            #dataframe.to_csv("Files/ExpandedDataFrame.csv")
         x = x + 1
     return dataframe
 
